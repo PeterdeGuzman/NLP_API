@@ -1,0 +1,1121 @@
+question,answer,source_file
+"b'Suppose 3*w - 20 = -w. Suppose -40 = -w*d + 3*d - 5*t, 4*d - 5*t = 80. Solve 0*r - 5*r = d for r.\n'",b'-4\n',algebra__linear_1d_composed_train.csv
+b'Let d be ((-9)/(-27))/((-1)/33). Let a = d + 16. Solve 4*j = -j - a for j.\n',b'-1\n',algebra__linear_1d_composed_train.csv
+"b'Let x(s) = -s**2 - 3*s + 3. Let g be x(0). Suppose -4*c + 20 = -2*r, -2*c + 2*r + g*r + 26 = 0. Solve -2 = -k - c for k.\n'",b'-1\n',algebra__linear_1d_composed_train.csv
+b'Let l be 1 + 20/8*-4. Let w = 11 + l. Solve w = -s - s for s.\n',b'-1\n',algebra__linear_1d_composed_train.csv
+b'Suppose 29*k + 491 - 926 = 0. Solve -30*l = -k*l - 15 for l.\n',b'1\n',algebra__linear_1d_composed_train.csv
+b'Let x be (-14)/(-6) + 4/6. Let u(v) = 3*v**2 - 30*v + 31. Let o be u(9). Solve 23 = o*t + x for t.\n',b'5\n',algebra__linear_1d_composed_train.csv
+"b'Suppose 5*a - 35 = -3*h, -25 = -2*h + 5*a + 15. Solve -2*i + 5*i + h = 0 for i.\n'",b'-5\n',algebra__linear_1d_composed_train.csv
+b'Let n be 3 + -4 + 0 + (2 - 3). Let d = 1 + -2. Let q be d/n - (-6)/4. Solve 7 = -3*g - q for g.\n',b'-3\n',algebra__linear_1d_composed_train.csv
+b'Let l(m) = m. Let f be l(5). Let v(r) = 0*r**2 + 3*r**2 + 2*r - 2*r**2 - 3*r - 8. Let p be v(5). Solve n - p = f*n for n.\n',b'-3\n',algebra__linear_1d_composed_train.csv
+b'Let l = -44 + 43. Let i(r) = -r**2 + r + 2. Let c be i(l). Solve c = w - 2*w - 4 for w.\n',b'-4\n',algebra__linear_1d_composed_train.csv
+b'Let r = -644 - -680. Solve 11 = 5*i + r for i.\n',b'-5\n',algebra__linear_1d_composed_train.csv
+"b'Let b = 7 - -1. Suppose 0 = 4*u + s + 4, u - s - 20 = 4*s. Solve 4*y + u = b for y.\n'",b'2\n',algebra__linear_1d_composed_train.csv
+"b'Suppose 0 = -2*f + 6*f + l - 4, -4*l + 16 = -4*f. Let a be f*(4 + -6 + 1). Solve -4*c = -a*c for c.\n'",b'0\n',algebra__linear_1d_composed_train.csv
+b'Suppose 204 = 26*k + 12*k - 24. Solve 26*t - 23*t = -k for t.\n',b'-2\n',algebra__linear_1d_composed_train.csv
+"b'Suppose -4*f = 3*t - 32, 3*f - 4*t = t - 5. Suppose -6*d + 18 = -30. Suppose -5*c + d*c = 6. Solve -f*h - 7 = -c for h.\n'",b'-1\n',algebra__linear_1d_composed_train.csv
+"b'Suppose 3*b = 5*b - m - 35, -b = -3*m - 30. Solve 2*v - 7*v = b for v.\n'",b'-3\n',algebra__linear_1d_composed_train.csv
+b'Let n(m) = m + 5. Let j be n(-5). Suppose j = -17*z + 14*z. Suppose 4*f - 9 - 15 = z. Solve 4*h + 2 - f = 0 for h.\n',b'1\n',algebra__linear_1d_composed_train.csv
+"b'Suppose 0 = -3*a + 2*n + 17, 3*n - 7*n = -4*a + 28. Solve -11*c + a = -12*c for c.\n'",b'-3\n',algebra__linear_1d_composed_train.csv
+b'Let b(i) = -i**2 - i + 1. Let n(v) = 3*v**2 + 16*v + 3. Let g(p) = -b(p) - n(p). Let r be g(-7). Solve -r*q + q + 8 = 0 for q.\n',b'4\n',algebra__linear_1d_composed_train.csv
+b'Let s be (-1 - 0)/(5/(-4) + 1). Let c = -4 - -7. Suppose -c = -3*v + 66. Solve -s*h - 3 = -v for h.\n',b'5\n',algebra__linear_1d_composed_train.csv
+b'Solve -77*p + 74*p + 15 = 0 for p.\n',b'5\n',algebra__linear_1d_train.csv
+b'Solve 2*q = -1 + 1 for q.\n',b'0\n',algebra__linear_1d_train.csv
+b'Solve -60*k - 39*k - 145 = 944 for k.\n',b'-11\n',algebra__linear_1d_train.csv
+b'Solve -40*k - 179 = -195 - 384 for k.\n',b'10\n',algebra__linear_1d_train.csv
+b'Solve 363*f + 836244 - 827895 = 0 for f.\n',b'-23\n',algebra__linear_1d_train.csv
+b'Solve 553*z - 161 = 576*z for z.\n',b'-7\n',algebra__linear_1d_train.csv
+b'Solve 0 = -7*f + 38 - 17 for f.\n',b'3\n',algebra__linear_1d_train.csv
+b'Solve 10 = -8*i + 3*i for i.\n',b'-2\n',algebra__linear_1d_train.csv
+b'Solve -51*i - 25 = -46*i for i.\n',b'-5\n',algebra__linear_1d_train.csv
+b'Solve 21402 = -454*t - 31262 for t.\n',b'-116\n',algebra__linear_1d_train.csv
+b'Solve 36*d + 65 + 48 + 67 = 0 for d.\n',b'-5\n',algebra__linear_1d_train.csv
+b'Solve 179*q = 181*q + 8 for q.\n',b'-4\n',algebra__linear_1d_train.csv
+b'Solve 41*f + 69 = -13 for f.\n',b'-2\n',algebra__linear_1d_train.csv
+b'Solve -485144 - 124648 = -12292*n + 336692 for n.\n',b'77\n',algebra__linear_1d_train.csv
+b'Solve 5*n + 17*n = -22*n + 44 for n.\n',b'1\n',algebra__linear_1d_train.csv
+b'Solve 57 = -26*x - 21 for x.\n',b'-3\n',algebra__linear_1d_train.csv
+b'Solve -5*k + 28*k - 9*k = -126 for k.\n',b'-9\n',algebra__linear_1d_train.csv
+b'Solve -29*q - 5 = 8 + 16 for q.\n',b'-1\n',algebra__linear_1d_train.csv
+b'Solve 6 = -2*d + 5*d for d.\n',b'2\n',algebra__linear_1d_train.csv
+b'Solve 0 = 26545*v - 26515*v for v.\n',b'0\n',algebra__linear_1d_train.csv
+"b'Let c(u) be the first derivative of -u**4/4 - u**2/2 + 2*u + 1. Let y be c(0). Solve 0*f + 5*n + 9 = -y*f, 0 = 3*f - n - 12 for f.\n'",b'3\n',algebra__linear_2d_composed_train.csv
+"b'Suppose 2*y - 4*v + v = 27, -4*y - 3*v = -45. Solve -5 = a + q - 0, y = -4*a - 2*q for a.\n'",b'-1\n',algebra__linear_2d_composed_train.csv
+"b'Suppose -2*v + 8 + 6 = u, -5*v = -5*u - 35. Solve -a - 11 = -3*b, -4*b + v - 3 = -4*a for a.\n'",b'4\n',algebra__linear_2d_composed_train.csv
+"b'Suppose 0 = -43*f + 12*f + 155. Solve 0 = -4*u + f*p - 3, 2*u - 4*p = -7*p + 15 for u.\n'",b'3\n',algebra__linear_2d_composed_train.csv
+"b'Let f(m) = 0*m - m + 1 - 4. Suppose -3*z = y - 3, 0*y - y - 12 = -2*z. Let i be f(y). Solve k = n, -i*k - 5*n + 18 = -22 for k.\n'",b'5\n',algebra__linear_2d_composed_train.csv
+"b'Let l be 174/12 - 6/(-4). Let n = l - 12. Let u = -9 - -15. Solve -4*y + n + 16 = 3*t, -2*t + u = -y for y.\n'",b'2\n',algebra__linear_2d_composed_train.csv
+"b'Let r(l) = l + 9. Let g be r(-7). Suppose j = 7 - g. Solve -i = -j*c + c - 8, 5*c + 7 = 2*i for c.\n'",b'-3\n',algebra__linear_2d_composed_train.csv
+"b'Let i(n) = 4*n + 5. Let m(b) = -9*b - 11. Let j(s) = -13*i(s) - 6*m(s). Suppose 3*a - 6 - 15 = 0. Let r be j(a). Solve 4 = w + h - 3, 5*w = 5*h - r for w.\n'",b'2\n',algebra__linear_2d_composed_train.csv
+"b'Suppose 3*z = 11*s - 14*s + 24, 3*z = s + 8. Solve -13 = 4*x - 9*x - p, -z*x = -3*p - 18 for x.\n'",b'3\n',algebra__linear_2d_composed_train.csv
+"b'Let z(o) = -47*o**2 - 658*o + 31. Let b be z(-14). Solve 0 = -2*f - 3*j + 9, -46 = -4*f - 5*j - b for f.\n'",b'0\n',algebra__linear_2d_composed_train.csv
+"b'Let c = 171 + -169. Solve 2*h = 8, b - c*b + 1 = h for b.\n'",b'-3\n',algebra__linear_2d_composed_train.csv
+"b'Suppose -9 = 4*j - 93. Suppose -b = -4*b + j. Let n(x) = x**2 - 5*x - 3. Let p be n(b). Solve -3*w = 4*h - w - 4, 0 = 3*h + 5*w + p for h.\n'",b'3\n',algebra__linear_2d_composed_train.csv
+"b'Suppose -4*u + 3*j = 4*j - 5, 0 = -4*u - 3*j + 7. Solve -4*f - 2 = -2*w, 5*f - u = 2*w - 3 for w.\n'",b'1\n',algebra__linear_2d_composed_train.csv
+"b'Let h = -49 + -23. Let s = h - -63. Let a be s/18 - 15/(-6). Solve 4*q = 6*q - 3*z, -a*q = -5*z for q.\n'",b'0\n',algebra__linear_2d_composed_train.csv
+"b'Suppose 0 = s - 4*b + 8*b - 20, 10 = -2*s + 2*b. Let q(d) = -d + 5. Let j be q(s). Solve j*m - 13 = -4*p, -4*m + 4*p + 41 - 9 = 0 for m.\n'",b'5\n',algebra__linear_2d_composed_train.csv
+"b'Suppose -15 = 67*s - 70*s. Solve -33 = -4*a + s*q, 2*a - 4*q - q = 29 for a.\n'",b'2\n',algebra__linear_2d_composed_train.csv
+"b'Let c(r) = -r**2 + 18*r. Let g be c(18). Solve 5*q + 7*m = 9*m + 16, g = -3*q + 3*m + 6 for q.\n'",b'4\n',algebra__linear_2d_composed_train.csv
+"b'Suppose 20*d + 0 = 100. Solve 5*t - 32 = 5*h - h, -19 = d*h - t for h.\n'",b'-3\n',algebra__linear_2d_composed_train.csv
+"b'Suppose -3*u + 11 = 2. Suppose 4 + 2 = -u*v, 0 = 2*j + 5*v + 6. Solve r + j*q = 15, 2*r - r = q for r.\n'",b'5\n',algebra__linear_2d_composed_train.csv
+"b'Let t(j) be the first derivative of 2*j**2 - 7*j - 13. Let d be t(2). Let q be 2 - ((d - 6) + 4). Solve c + q*s = 1, 0*s - s + 1 = 0 for c.\n'",b'-2\n',algebra__linear_2d_composed_train.csv
+"b'Solve -100 = o - 5*g - 83, -3*o - 2*g + 17 = 0 for o.\n'",b'3\n',algebra__linear_2d_train.csv
+"b'Solve 6*m + 31 = -4*g + 11*m, 5*m = 15 for g.\n'",b'-4\n',algebra__linear_2d_train.csv
+"b'Solve -2*l + 541*n - 546*n - 20 = 0, -5*l + 2*n - 21 = 0 for l.\n'",b'-5\n',algebra__linear_2d_train.csv
+"b'Solve 201*t - 204*t - 1 = -p, 4*t = 2*p - 4 for t.\n'",b'1\n',algebra__linear_2d_train.csv
+"b'Solve 2*f - 491*t = -482*t - 11, -4*f + 3*t = 6*t - 83 for f.\n'",b'17\n',algebra__linear_2d_train.csv
+"b'Solve 5*q - 16 = f + 12, 0 = f + 2*q - 7 for f.\n'",b'-3\n',algebra__linear_2d_train.csv
+"b'Solve -5*i - w + 10 = 0, -3*i - 4*w + 7*w + 24 = 0 for i.\n'",b'3\n',algebra__linear_2d_train.csv
+"b'Solve -2*n = -2*m - 4, 2*n + 16 = -2*m - 0*n for m.\n'",b'-5\n',algebra__linear_2d_train.csv
+"b'Solve -8*f - 20 = -z, 4*z = f + 187 - 169 for z.\n'",b'4\n',algebra__linear_2d_train.csv
+"b'Solve -5*b = -10*r - 235, -3*r + 5*b - 103 = -0*b + 118 for r.\n'",b'-2\n',algebra__linear_2d_train.csv
+"b'Solve 4*z = -5*f - 491 + 471, 4*z = 4*f + 16 for f.\n'",b'-4\n',algebra__linear_2d_train.csv
+"b'Solve -4 = -4*x + 2*c, -4*x + 28 = -0*x + 4*c for x.\n'",b'3\n',algebra__linear_2d_train.csv
+"b'Solve -3*r - 35 = -4*x, -2*r = -3*x + 5*x for x.\n'",b'5\n',algebra__linear_2d_train.csv
+"b'Solve -460*v + z = -458*v - 7, -6*z = -2*v + 22 for v.\n'",b'2\n',algebra__linear_2d_train.csv
+"b'Solve 0 = -3*i + 2*u + 26, -3*i + 3*u - 488 = -512 for i.\n'",b'10\n',algebra__linear_2d_train.csv
+"b'Solve -5*b + 10*b - 5 = 2*x, 5*x + b = 1 for x.\n'",b'0\n',algebra__linear_2d_train.csv
+"b'Solve 4*p - 3*g - 13 = 0, -4*g = 384 - 388 for p.\n'",b'4\n',algebra__linear_2d_train.csv
+"b'Solve -2*x - 387 = -2*y - 419, -4*x - y + 39 = 0 for x.\n'",b'11\n',algebra__linear_2d_train.csv
+"b'Solve m - 2 = n - 2*m, -3 = 3*m for n.\n'",b'-5\n',algebra__linear_2d_train.csv
+"b'Solve 0 = 5*p + 4*f - 33, p + 1210*f = 1206*f + 13 for p.\n'",b'5\n',algebra__linear_2d_train.csv
+b'Let j(k) = 2*k**2 - 8*k + 2. Let u be j(6). Determine a so that 20*a + 4*a**2 + 10*a**2 - u*a - 18 - 2*a**3 - 4*a**2 = 0.\n',"b'-1, 3\n'",algebra__polynomial_roots_composed_train.csv
+b'Let u(q) be the third derivative of q**6/180 - q**5/90 + q**2. Factor u(p).\n',b'2*p**2*(p - 1)/3\n',algebra__polynomial_roots_composed_train.csv
+b'Solve 8 + 5*t - 11/4*t**2 + 1/4*t**3 = 0 for t.\n',"b'-1, 4, 8\n'",algebra__polynomial_roots_composed_train.csv
+"b'Suppose -3*b - 8 = -5*b. Suppose -t = 2*j + 3*j + 19, -4*j - 20 = -b*t. Factor 4*d + d**2 + 0*d**2 + t - 2*d.\n'",b'(d + 1)**2\n',algebra__polynomial_roots_composed_train.csv
+b'Suppose 0 = 16*l - 15*l + 201. Let h = l - -206. Let 0*p + 8/3*p**4 + 0 - 14/9*p**h - 4/9*p**2 - 2/3*p**3 = 0. Calculate p.\n',"b'-2/7, 0, 1\n'",algebra__polynomial_roots_composed_train.csv
+b'Suppose 6*w**3 + w + 5/2*w**4 + 0 + 9/2*w**2 = 0. What is w?\n',"b'-1, -2/5, 0\n'",algebra__polynomial_roots_composed_train.csv
+b'Suppose q = -110 + 346. Factor 1188*t**2 + 192 - q*t + 1099*t - 47*t + 310*t**3 + 419*t**3 + 162*t**4.\n',b'3*(2*t + 1)*(3*t + 4)**3\n',algebra__polynomial_roots_composed_train.csv
+b'Let y(j) be the third derivative of -1/8*j**4 + 1/40*j**5 + 1/4*j**3 + j**2 + 0*j + 0. Factor y(a).\n',b'3*(a - 1)**2/2\n',algebra__polynomial_roots_composed_train.csv
+b'Let z = -18110 - -18113. Factor -6/5*b**2 + 8/5 - 2/5*b**z + 0*b.\n',b'-2*(b - 1)*(b + 2)**2/5\n',algebra__polynomial_roots_composed_train.csv
+b'Let w be 9/((-9)/4) + 89. Let y = 152 - w. Factor -8*v**3 + y*v - 2*v**3 - 62*v + 5*v**5.\n',b'5*v*(v - 1)**2*(v + 1)**2\n',algebra__polynomial_roots_composed_train.csv
+b'Let g be 0*(-81)/270*(-5)/3. Let f(h) be the second derivative of -1/40*h**5 + 1/12*h**3 + 0*h**4 + 1/8*h**2 - 6*h + g - 1/120*h**6. Find b such that f(b) = 0.\n',"b'-1, 1\n'",algebra__polynomial_roots_composed_train.csv
+b'Factor -15/7 - 18/7*r - 3/7*r**2.\n',b'-3*(r + 1)*(r + 5)/7\n',algebra__polynomial_roots_composed_train.csv
+b'Let q = -132 - -136. Let -9/4*t**q - 6*t**3 - 11/2*t**2 - 1/4 - 2*t = 0. Calculate t.\n',"b'-1, -1/3\n'",algebra__polynomial_roots_composed_train.csv
+b'Let b(m) be the third derivative of m**7/105 - 5*m**6/24 - 61*m**5/30 - 161*m**4/24 - 11*m**3 + m**2 + 1953*m. Factor b(j).\n',b'(j + 1)**2*(j + 2)*(2*j - 33)\n',algebra__polynomial_roots_composed_train.csv
+b'Let y be 9*(-4 + (-10)/(-3)) - 37/(-6). Factor -15*p**2 - 11/6*p**4 - 23/3*p**3 - y*p**5 - 9/2 - 27/2*p.\n',b'-(p + 1)**2*(p + 3)**3/6\n',algebra__polynomial_roots_composed_train.csv
+b'Let p be -1 + (26 - (0 + 0)). Let m be 40/p*10/4. Determine r so that -6*r**2 - 2 + 2*r**2 - 3*r**m + 4*r**3 + 9*r**4 - 6*r + 2*r**5 = 0.\n',"b'-1, 1\n'",algebra__polynomial_roots_composed_train.csv
+"b'Suppose 7*g - 3*g + 23 = -3*x, 11 = 2*g - 3*x. Let q be (((-1)/(-1))/((-1)/g))/6. Solve 0 - 4/3*t**2 - q*t**3 - 4/3*t = 0.\n'","b'-2, 0\n'",algebra__polynomial_roots_composed_train.csv
+"b'Suppose -2*i = 4*k - 34, -i = i - 10. Suppose -2*h - u = -5, 0 = h + 3*u + k - 1. What is x in -3*x**3 - x**4 + 5*x**3 + 3*x**h = 0?\n'","b'-1, 0\n'",algebra__polynomial_roots_composed_train.csv
+b'Let l(c) = -c**4 - 29*c**3 + 7*c**2 + 35*c - 3. Let o(g) = 6*g**4 + 146*g**3 - 34*g**2 - 174*g + 14. Let f(r) = 14*l(r) + 3*o(r). Factor f(h).\n',b'4*h*(h - 1)*(h + 1)*(h + 8)\n',algebra__polynomial_roots_composed_train.csv
+b'Suppose 450 + 2*c**2 - 64*c - 60*c + 184*c = 0. What is c?\n',b'-15\n',algebra__polynomial_roots_composed_train.csv
+"b'Determine f, given that -45*f**2 + 5390*f + 1200 = 0.\n'","b'-2/9, 120\n'",algebra__polynomial_roots_train.csv
+b'Solve -3*c**2/2 + 54*c + 378 = 0 for c.\n',"b'-6, 42\n'",algebra__polynomial_roots_train.csv
+b'Factor -4*v**3 + 244*v**2 + 2756*v + 5964.\n',b'-4*(v - 71)*(v + 3)*(v + 7)\n',algebra__polynomial_roots_train.csv
+b'Suppose 12*t**2 + 3172*t - 5320 = 0. What is t?\n',"b'-266, 5/3\n'",algebra__polynomial_roots_train.csv
+b'Factor -2*p**2 + 68178*p - 5441440.\n',b'-2*(p - 34009)*(p - 80)\n',algebra__polynomial_roots_train.csv
+b'Factor -2187*z**4/5 - 153819*z**3/5 + 103194*z**2/5 - 4596*z + 1704/5.\n',b'-3*(z + 71)*(9*z - 2)**3/5\n',algebra__polynomial_roots_train.csv
+b'Let l**3/6 - 29*l**2/2 - 60*l - 182/3 = 0. What is l?\n',"b'-2, 91\n'",algebra__polynomial_roots_train.csv
+b'Factor -b**2/2 + 44*b - 968.\n',b'-(b - 44)**2/2\n',algebra__polynomial_roots_train.csv
+b'Factor 2*o**3/11 + 2148*o**2/11 + 578880*o/11 + 1149184/11.\n',b'2*(o + 2)*(o + 536)**2/11\n',algebra__polynomial_roots_train.csv
+b'Factor -2*y**3/9 + 11162194*y**2/9 + 26045152*y/3.\n',b'-2*y*(y - 5581104)*(y + 7)/9\n',algebra__polynomial_roots_train.csv
+b'Factor 4*m**4 - 164*m**3 + 468*m**2 - 460*m + 152.\n',b'4*(m - 38)*(m - 1)**3\n',algebra__polynomial_roots_train.csv
+b'Let -j**3/2 + 274*j**2 - 1637*j/2 + 545 = 0. Calculate j.\n',"b'1, 2, 545\n'",algebra__polynomial_roots_train.csv
+b'Factor -4*k**2/7 + 1276*k/7 + 2568/7.\n',b'-4*(k - 321)*(k + 2)/7\n',algebra__polynomial_roots_train.csv
+b'Solve s**5/7 - 617*s**4/7 + 18857*s**3/7 - 80191*s**2/7 + 26694*s/7 + 126360/7 = 0 for s.\n',"b'-1, 2, 4, 27, 585\n'",algebra__polynomial_roots_train.csv
+b'Solve -21*f**5 + 6224*f**4 + 109783*f**3 - 170462*f**2 - 136396*f - 22536 = 0.\n',"b'-18, -1/3, -2/7, 2, 313\n'",algebra__polynomial_roots_train.csv
+b'Factor 5*t**3 + 2360*t**2 + 276105*t - 561690.\n',b'5*(t - 2)*(t + 237)**2\n',algebra__polynomial_roots_train.csv
+b'Factor 5*j**4 + 2965*j**3 - 2980*j**2 - 5940*j.\n',b'5*j*(j - 2)*(j + 1)*(j + 594)\n',algebra__polynomial_roots_train.csv
+b'Find o such that o**5/4 - 499*o**4/4 - 8847*o**3/4 + 36919*o**2/4 + 458653*o/2 + 218010 = 0.\n',"b'-13, -1, 10, 516\n'",algebra__polynomial_roots_train.csv
+b'Factor -2*v**4/7 - 48*v**3/7 - 46*v**2/7.\n',b'-2*v**2*(v + 1)*(v + 23)/7\n',algebra__polynomial_roots_train.csv
+b'Factor 1024*x**2/3 + 151424*x/3 + 5597956/3.\n',b'4*(16*x + 1183)**2/3\n',algebra__polynomial_roots_train.csv
+"b'What is the next term in -226, -227, -224, -217, -206, -191, -172?\n'",b'-149\n',algebra__sequence_next_term_train.csv
+"b'What is next in -29, -30, -9, 40, 123, 246, 415?\n'",b'636\n',algebra__sequence_next_term_train.csv
+"b'What is next in -2503, -5372, -8227, -11062, -13871, -16648, -19387?\n'",b'-22082\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 4, -49, -142, -281, -472, -721, -1034, -1417?\n'",b'-1876\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 1523, 1982, 2473, 3002, 3575, 4198, 4877, 5618?\n'",b'6427\n',algebra__sequence_next_term_train.csv
+"b'What is next in 1733, 3473, 5213, 6953, 8693, 10433?\n'",b'12173\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 27, 54, 79, 102, 123, 142?\n'",b'159\n',algebra__sequence_next_term_train.csv
+"b'What is next in 73, 151, 233, 319, 409, 503?\n'",b'601\n',algebra__sequence_next_term_train.csv
+"b'What is the next term in -2852, -6469, -10086, -13703, -17320?\n'",b'-20937\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 958697, 3834805, 8628321, 15339245, 23967577?\n'",b'34513317\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 47, -332, -1345, -3304, -6521?\n'",b'-11308\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 392, 391, 390, 389, 388, 387?\n'",b'386\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 62, 126, 190, 254, 318, 382?\n'",b'446\n',algebra__sequence_next_term_train.csv
+"b'What comes next: 425293, 850638, 1276015, 1701424?\n'",b'2126865\n',algebra__sequence_next_term_train.csv
+"b'What is the next term in -1656, -1673, -1702, -1743, -1796?\n'",b'-1861\n',algebra__sequence_next_term_train.csv
+"b'What is next in -195, -413, -631?\n'",b'-849\n',algebra__sequence_next_term_train.csv
+"b'What is next in -284, -487, -822, -1283, -1864?\n'",b'-2559\n',algebra__sequence_next_term_train.csv
+"b'What comes next: -61, -221, -483, -847?\n'",b'-1313\n',algebra__sequence_next_term_train.csv
+"b'What is next in 7, 18, 55, 130, 255, 442, 703, 1050?\n'",b'1495\n',algebra__sequence_next_term_train.csv
+"b'What is next in 67341, 67334, 67323, 67308, 67289?\n'",b'67266\n',algebra__sequence_next_term_train.csv
+"b""What is the y'th term of 2, 19, 72, 179, 358?\n""",b'3*y**3 - 4*y + 3\n',algebra__sequence_nth_term_train.csv
+"b""What is the k'th term of -766, -3055, -6864, -12193?\n""",b'-760*k**2 - 9*k + 3\n',algebra__sequence_nth_term_train.csv
+"b""What is the r'th term of 1119, 4503, 10143, 18039?\n""",b'1128*r**2 - 9\n',algebra__sequence_nth_term_train.csv
+"b""What is the s'th term of -93887, -93876, -93865, -93854?\n""",b'11*s - 93898\n',algebra__sequence_nth_term_train.csv
+"b""What is the q'th term of 2649, 5407, 8155, 10893, 13621, 16339, 19047?\n""",b'-5*q**2 + 2773*q - 119\n',algebra__sequence_nth_term_train.csv
+"b""What is the b'th term of 25, 34, 45, 58, 73?\n""",b'b**2 + 6*b + 18\n',algebra__sequence_nth_term_train.csv
+"b""What is the v'th term of 275, 237, 179, 107, 27, -55?\n""",b'v**3 - 16*v**2 + 3*v + 287\n',algebra__sequence_nth_term_train.csv
+"b""What is the w'th term of 1358, 2712, 4066, 5420, 6774, 8128?\n""",b'1354*w + 4\n',algebra__sequence_nth_term_train.csv
+"b""What is the c'th term of -414, -475, -538, -603, -670, -739, -810?\n""",b'-c**2 - 58*c - 355\n',algebra__sequence_nth_term_train.csv
+"b""What is the z'th term of -54821442, -54821441, -54821440, -54821439?\n""",b'z - 54821443\n',algebra__sequence_nth_term_train.csv
+"b""What is the f'th term of 5330, 42703, 144154, 341723, 667450, 1153375, 1831538, 2733979?\n""",b'5340*f**3 - f**2 - 4*f - 5\n',algebra__sequence_nth_term_train.csv
+"b""What is the c'th term of -6, -34, -80, -144, -226?\n""",b'-9*c**2 - c + 4\n',algebra__sequence_nth_term_train.csv
+"b""What is the s'th term of 241, 243, 245?\n""",b'2*s + 239\n',algebra__sequence_nth_term_train.csv
+"b""What is the z'th term of -802370, -3209444, -7221210, -12837656, -20058770, -28884540, -39314954, -51350000?\n""",b'2*z**3 - 802358*z**2 - 14*z\n',algebra__sequence_nth_term_train.csv
+"b""What is the w'th term of 927, 1786, 2645, 3504, 4363, 5222?\n""",b'859*w + 68\n',algebra__sequence_nth_term_train.csv
+"b""What is the q'th term of 112, 221, 328, 433, 536, 637?\n""",b'-q**2 + 112*q + 1\n',algebra__sequence_nth_term_train.csv
+"b""What is the k'th term of -45648, -91046, -136430, -181794, -227132, -272438, -317706?\n""",b'k**3 + k**2 - 45408*k - 242\n',algebra__sequence_nth_term_train.csv
+"b""What is the b'th term of 181, 196, 237, 316, 445, 636?\n""",b'2*b**3 + b**2 - 2*b + 180\n',algebra__sequence_nth_term_train.csv
+"b""What is the j'th term of -49, -43, -27, 5, 59, 141, 257?\n""",b'j**3 - j**2 + 2*j - 51\n',algebra__sequence_nth_term_train.csv
+"b""What is the f'th term of 75909, 151810, 227707, 303600?\n""",b'-2*f**2 + 75907*f + 4\n',algebra__sequence_nth_term_train.csv
+"b'In base 14, what is 1 - b?\n'",b'-a\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 15, what is 1d9 + 5?\n'",b'1de\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 12, what is -4 - 670b?\n'",b'-6713\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 10, what is -2 - -342?\n'",b'340\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 3, what is 1202101 - 12022112?\n'",b'-10120011\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 8, what is -5 - 353?\n'",b'-360\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 9, what is -84 + 7?\n'",b'-76\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 12, what is 77 + -2?\n'",b'75\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 13, what is 8a4 - -6?\n'",b'8aa\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 5, what is 3111 + 41414432?\n'",b'41423043\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 5, what is 13 + 231333?\n'",b'231401\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 13, what is 2 - -3a3?\n'",b'3a5\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 8, what is -7 + -332?\n'",b'-341\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 13, what is -2c0 - -246440?\n'",b'246150\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 5, what is 14133031 - 4?\n'",b'14133022\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 2, what is -10101000 - -100?\n'",b'-10100100\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 13, what is -159a - -2?\n'",b'-1598\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 12, what is 28555 - -7?\n'",b'28560\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 11, what is -10 - 176?\n'",b'-186\n',arithmetic__add_or_sub_in_base_train.csv
+"b'In base 10, what is 1 + -537119?\n'",b'-537118\n',arithmetic__add_or_sub_in_base_train.csv
+b'What is -0.44 + -70.4?\n',b'-70.84\n',arithmetic__add_or_sub_train.csv
+b'What is -717 less than -7?\n',b'710\n',arithmetic__add_or_sub_train.csv
+b'Work out -0.8 - 58204771.\n',b'-58204771.8\n',arithmetic__add_or_sub_train.csv
+b'Total of 901528 and 0.024.\n',b'901528.024\n',arithmetic__add_or_sub_train.csv
+b'Put together 8029506 and 14096341.\n',b'22125847\n',arithmetic__add_or_sub_train.csv
+b'What is -7.9 take away -14?\n',b'6.1\n',arithmetic__add_or_sub_train.csv
+b'Add together -4 and 123.238.\n',b'119.238\n',arithmetic__add_or_sub_train.csv
+b'Sum -0.01531 and -2.\n',b'-2.01531\n',arithmetic__add_or_sub_train.csv
+b'Add together -41 and -0.0417649.\n',b'-41.0417649\n',arithmetic__add_or_sub_train.csv
+b'Calculate -4.53337975 - -0.97623.\n',b'-3.55714975\n',arithmetic__add_or_sub_train.csv
+b'What is 1882654 minus -2455?\n',b'1885109\n',arithmetic__add_or_sub_train.csv
+b'Total of 177558 and -0.14.\n',b'177557.86\n',arithmetic__add_or_sub_train.csv
+b'Subtract 7 from -0.0856.\n',b'-7.0856\n',arithmetic__add_or_sub_train.csv
+b'Add -3 and 157988878705.\n',b'157988878702\n',arithmetic__add_or_sub_train.csv
+b'What is -79904669.46 + -2?\n',b'-79904671.46\n',arithmetic__add_or_sub_train.csv
+b'Sum -468583 and -1.\n',b'-468584\n',arithmetic__add_or_sub_train.csv
+b'Put together -0.5 and 1430867318.\n',b'1430867317.5\n',arithmetic__add_or_sub_train.csv
+b'What is 145876641 + 3?\n',b'145876644\n',arithmetic__add_or_sub_train.csv
+b'0.07325 - 0.5\n',b'-0.42675\n',arithmetic__add_or_sub_train.csv
+b'Work out -932 + -7625621.\n',b'-7626553\n',arithmetic__add_or_sub_train.csv
+b'Calculate 1 - (2 - 4) - 4.\n',b'-1\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate 1 + 5 + -4 - (-3 + 7).\n',b'-2\n',arithmetic__add_sub_multiple_train.csv
+b'Calculate (-1 - -6) + ((-5 - -18) + -8 - 5).\n',b'5\n',arithmetic__add_sub_multiple_train.csv
+b'Calculate -11 + 2 - (6 - (25 - 16)).\n',b'-6\n',arithmetic__add_sub_multiple_train.csv
+b'What is 4 + (3 + 2 + -36 + -8 + -8 - -6)?\n',b'-37\n',arithmetic__add_sub_multiple_train.csv
+b'1 - (16 + -5 + -3)\n',b'-7\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate (-3 - 0) + (3 + 5 - 12).\n',b'-7\n',arithmetic__add_sub_multiple_train.csv
+b'What is 11 + (10 - (21 - -1))?\n',b'-1\n',arithmetic__add_sub_multiple_train.csv
+b'-29 + (-37 - -75) - (0 - (0 + -39))\n',b'-30\n',arithmetic__add_sub_multiple_train.csv
+b'(9 - 2) + -1 - (32 - (7 + -32))\n',b'-51\n',arithmetic__add_sub_multiple_train.csv
+b'Calculate (-17 - (2 - 8)) + 18 + -2 + 22.\n',b'27\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate (-2 + 1 - (-17 + 16)) + -1.\n',b'-1\n',arithmetic__add_sub_multiple_train.csv
+b'-1 - (3 - -2) - -8\n',b'2\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate 102 + -157 - (-8 - -23 - -5).\n',b'-75\n',arithmetic__add_sub_multiple_train.csv
+b'What is -8 - (-71 - -61) - ((-1 - -2) + 2)?\n',b'-1\n',arithmetic__add_sub_multiple_train.csv
+b'What is 5 + 0 - (-3 - (2 - 5))?\n',b'5\n',arithmetic__add_sub_multiple_train.csv
+b'(7 - (-6 - -3)) + -9 + -6\n',b'-5\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate 35 + -1 + 1714 + -1770.\n',b'-22\n',arithmetic__add_sub_multiple_train.csv
+b'-11 - 4 - -5 - -10\n',b'0\n',arithmetic__add_sub_multiple_train.csv
+b'Evaluate 10 - ((-1 - (-7 + (5 - -1))) + -1).\n',b'11\n',arithmetic__add_sub_multiple_train.csv
+b'Divide 87 by -161.\n',b'-87/161\n',arithmetic__div_train.csv
+b'What is -193 divided by 120?\n',b'-193/120\n',arithmetic__div_train.csv
+b'What is -7 divided by 21089?\n',b'-7/21089\n',arithmetic__div_train.csv
+b'251316 divided by 27924\n',b'9\n',arithmetic__div_train.csv
+b'89967950 divided by -5\n',b'-17993590\n',arithmetic__div_train.csv
+b'What is -57 divided by 45?\n',b'-19/15\n',arithmetic__div_train.csv
+b'Divide 7 by 158.\n',b'7/158\n',arithmetic__div_train.csv
+b'Divide 2805 by -11.\n',b'-255\n',arithmetic__div_train.csv
+b'Divide 4932338 by 2.\n',b'2466169\n',arithmetic__div_train.csv
+b'Calculate 26071643 divided by -871.\n',b'-29933\n',arithmetic__div_train.csv
+b'6 divided by 336\n',b'1/56\n',arithmetic__div_train.csv
+b'What is 61 divided by -6?\n',b'-61/6\n',arithmetic__div_train.csv
+b'Divide 1 by -71.\n',b'-1/71\n',arithmetic__div_train.csv
+b'-87957388 divided by 21989347\n',b'-4\n',arithmetic__div_train.csv
+b'Divide 258876 by 27.\n',b'9588\n',arithmetic__div_train.csv
+b'What is 29 divided by 1?\n',b'29\n',arithmetic__div_train.csv
+b'What is 30824 divided by -4?\n',b'-7706\n',arithmetic__div_train.csv
+b'964 divided by 25\n',b'964/25\n',arithmetic__div_train.csv
+b'What is 781 divided by -6?\n',b'-781/6\n',arithmetic__div_train.csv
+b'Divide 949614 by -4.\n',b'-474807/2\n',arithmetic__div_train.csv
+b'Evaluate (-48)/12 - (-3 - 0).\n',b'-1\n',arithmetic__mixed_train.csv
+b'Evaluate -1*(-3 + (-46)/(-8) - 3).\n',b'1/4\n',arithmetic__mixed_train.csv
+b'(-52767)/2214 + 1*(-10)/(-12)\n',b'-23\n',arithmetic__mixed_train.csv
+b'What is the value of (-276)/(-483)*(-840)/(-128)?\n',b'15/4\n',arithmetic__mixed_train.csv
+b'Calculate (-8)/10*(-43015)/44244.\n',b'7/9\n',arithmetic__mixed_train.csv
+b'What is 3*(-176)/252 - -2?\n',b'-2/21\n',arithmetic__mixed_train.csv
+b'What is 21/(-105) - 11/20?\n',b'-3/4\n',arithmetic__mixed_train.csv
+b'Evaluate 3/(-1) + (4 - (-20)/(-12)).\n',b'-2/3\n',arithmetic__mixed_train.csv
+b'14*((-768)/(-126) - 6)\n',b'4/3\n',arithmetic__mixed_train.csv
+b'What is (2 - 581/294)/((-1530)/1071)?\n',b'-1/60\n',arithmetic__mixed_train.csv
+b'Calculate (1 + (-63)/56)*40/(-175).\n',b'1/35\n',arithmetic__mixed_train.csv
+b'Evaluate (2 + 0)*(2 - 4)/(-2).\n',b'2\n',arithmetic__mixed_train.csv
+b'18/(-14)*-1 - (-4)/(-14)\n',b'1\n',arithmetic__mixed_train.csv
+b'Evaluate (621/(-168) + 220/3080)*4.\n',b'-29/2\n',arithmetic__mixed_train.csv
+b'Calculate (-8)/(-16)*(21/(-2))/((-90)/(-120)).\n',b'-7\n',arithmetic__mixed_train.csv
+b'Calculate 1*2*-3 - -4.\n',b'-2\n',arithmetic__mixed_train.csv
+b'What is (4 + -2)/(-2)*(-1583 - -1590)?\n',b'-7\n',arithmetic__mixed_train.csv
+b'What is (-2)/(6/(-15)) + (308/(-33) - -3)?\n',b'-4/3\n',arithmetic__mixed_train.csv
+b'What is 44/(-10) - 69/115?\n',b'-5\n',arithmetic__mixed_train.csv
+b'Evaluate (-6)/8 + (-3920)/(-448).\n',b'8\n',arithmetic__mixed_train.csv
+b'What is (2/(-2))/(16*14/1568)?\n',b'-7\n',arithmetic__mul_div_multiple_train.csv
+b'What is (18/9)/(3/3*-1)?\n',b'-2\n',arithmetic__mul_div_multiple_train.csv
+b'Calculate (-1)/(((-24)/16)/((-15)/(-20)))*-26.\n',b'-13\n',arithmetic__mul_div_multiple_train.csv
+b'-1*-9*16/(-108)*1*6\n',b'-8\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate 4/(-406)*2*(483/(-92))/(1188/88).\n',b'2/261\n',arithmetic__mul_div_multiple_train.csv
+b'2/(-7)*(-77)/352*6\n',b'3/8\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate 48/(-24)*1/(-6).\n',b'1/3\n',arithmetic__mul_div_multiple_train.csv
+b'8/24*9/2\n',b'3/2\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate -15*7*(-319)/(-3045).\n',b'-11\n',arithmetic__mul_div_multiple_train.csv
+b'Calculate 90/(-4)*(6336/109824)/(((-210)/32)/7).\n',b'18/13\n',arithmetic__mul_div_multiple_train.csv
+b'What is the value of ((-1)/((26/(-2))/(-52)))/(8/46)?\n',b'-23\n',arithmetic__mul_div_multiple_train.csv
+b'What is 42/(-12)*15/(60/8)?\n',b'-7\n',arithmetic__mul_div_multiple_train.csv
+b'What is (99/(-22))/(5/10)?\n',b'-9\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate (-13)/(-416)*-12*(-92)/46.\n',b'3/4\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate (-6)/(5*1*252/(-210))*37.\n',b'37\n',arithmetic__mul_div_multiple_train.csv
+b'What is the value of (-2)/(-5)*(-33)/44*20?\n',b'-6\n',arithmetic__mul_div_multiple_train.csv
+b'Evaluate -36*(-4)/32*(-6)/108.\n',b'-1/4\n',arithmetic__mul_div_multiple_train.csv
+b'(176/120)/(104/(-260))\n',b'-11/3\n',arithmetic__mul_div_multiple_train.csv
+b'Calculate ((-4)/1)/(2/(-8)*4).\n',b'4\n',arithmetic__mul_div_multiple_train.csv
+b'What is (-225)/30*(-5)/150*68?\n',b'17\n',arithmetic__mul_div_multiple_train.csv
+b'0.5 * -536\n',b'-268\n',arithmetic__mul_train.csv
+b'Product of 0.2 and 27.\n',b'5.4\n',arithmetic__mul_train.csv
+b'What is 3100.72 times 0.5?\n',b'1550.36\n',arithmetic__mul_train.csv
+b'Work out -177 * 1010.\n',b'-178770\n',arithmetic__mul_train.csv
+b'Calculate -247953*642.\n',b'-159185826\n',arithmetic__mul_train.csv
+b'What is the product of 0.06 and -0.09?\n',b'-0.0054\n',arithmetic__mul_train.csv
+b'-29 times -0.0143\n',b'0.4147\n',arithmetic__mul_train.csv
+b'Multiply -2 and 3.2.\n',b'-6.4\n',arithmetic__mul_train.csv
+b'What is the product of 31047 and -0.1?\n',b'-3104.7\n',arithmetic__mul_train.csv
+b'Multiply -70709.44 and 2.\n',b'-141418.88\n',arithmetic__mul_train.csv
+b'21 * 40500\n',b'850500\n',arithmetic__mul_train.csv
+b'Work out -0.07 * -99.\n',b'6.93\n',arithmetic__mul_train.csv
+b'32 times -2.9\n',b'-92.8\n',arithmetic__mul_train.csv
+b'What is the product of -52 and -2.36965?\n',b'123.2218\n',arithmetic__mul_train.csv
+b'Work out 1 * 29476.\n',b'29476\n',arithmetic__mul_train.csv
+b'Calculate 3.3*0.47.\n',b'1.551\n',arithmetic__mul_train.csv
+b'Product of -999547 and 0.4.\n',b'-399818.8\n',arithmetic__mul_train.csv
+b'What is 119 times 0.265?\n',b'31.535\n',arithmetic__mul_train.csv
+b'Work out 0.5 * -0.266.\n',b'-0.133\n',arithmetic__mul_train.csv
+b'What is -0.9675 times -6?\n',b'5.805\n',arithmetic__mul_train.csv
+"b'What is 52416 to the power of 1/2, to the nearest integer?\n'",b'229\n',arithmetic__nearest_integer_root_train.csv
+b'What is the cube root of 12617 to the nearest integer?\n',b'23\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 4827096 to the power of 1/3, to the nearest integer?\n'",b'169\n',arithmetic__nearest_integer_root_train.csv
+b'What is the sixth root of 843384 to the nearest integer?\n',b'10\n',arithmetic__nearest_integer_root_train.csv
+b'What is the third root of 8499555 to the nearest integer?\n',b'204\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 44030 to the power of 1/10, to the nearest integer?\n'",b'3\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 4332 to the power of 1/2, to the nearest integer?\n'",b'66\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 69307 to the power of 1/4, to the nearest integer?\n'",b'16\n',arithmetic__nearest_integer_root_train.csv
+b'What is the third root of 541114 to the nearest integer?\n',b'81\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 1999025620 to the power of 1/2, to the nearest integer?\n'",b'44710\n',arithmetic__nearest_integer_root_train.csv
+b'What is the third root of 259002 to the nearest integer?\n',b'64\n',arithmetic__nearest_integer_root_train.csv
+b'What is the square root of 8298 to the nearest integer?\n',b'91\n',arithmetic__nearest_integer_root_train.csv
+b'What is the cube root of 2149 to the nearest integer?\n',b'13\n',arithmetic__nearest_integer_root_train.csv
+b'What is the ninth root of 6297977489 to the nearest integer?\n',b'12\n',arithmetic__nearest_integer_root_train.csv
+b'What is the square root of 183258 to the nearest integer?\n',b'428\n',arithmetic__nearest_integer_root_train.csv
+b'What is the square root of 6802 to the nearest integer?\n',b'82\n',arithmetic__nearest_integer_root_train.csv
+b'What is the square root of 288586 to the nearest integer?\n',b'537\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 4807007 to the power of 1/8, to the nearest integer?\n'",b'7\n',arithmetic__nearest_integer_root_train.csv
+"b'What is 4050 to the power of 1/3, to the nearest integer?\n'",b'16\n',arithmetic__nearest_integer_root_train.csv
+b'What is the cube root of 7556289 to the nearest integer?\n',b'196\n',arithmetic__nearest_integer_root_train.csv
+b'Simplify (sqrt(192) + 1)**2*5 + 0 + -2*sqrt(192) + sqrt(192).\n',b'72*sqrt(3) + 965\n',arithmetic__simplify_surd_train.csv
+b'Simplify (sqrt(98) - (sqrt(98) - (sqrt(98) + -1))) + -1*sqrt(2)*-4.\n',b'-1 + 11*sqrt(2)\n',arithmetic__simplify_surd_train.csv
+b'Simplify (2*1*sqrt(85))/(sqrt(320)*-1) + -4.\n',b'-4 - sqrt(17)/4\n',arithmetic__simplify_surd_train.csv
+b'Simplify (3*sqrt(624)*-2)/(((sqrt(363) + (sqrt(363)*-1 - sqrt(363)) - sqrt(363)) + sqrt(363) - sqrt(3))*-5).\n',b'-2*sqrt(13)/5\n',arithmetic__simplify_surd_train.csv
+b'Simplify (sqrt(832) - (sqrt(832) + 2*(0 + sqrt(832)))**2)*-4 + (2*6*sqrt(1872)*-3)**2.\n',b'-32*sqrt(13) + 2456064\n',arithmetic__simplify_surd_train.csv
+b'Simplify sqrt(99)/(sqrt(9) + sqrt(27)/sqrt(3))*-1.\n',b'-sqrt(11)/2\n',arithmetic__simplify_surd_train.csv
+b'Simplify ((sqrt(3) + -2)*6 - (sqrt(48) - sqrt(3) - sqrt(3))*3)**2.\n',b'144\n',arithmetic__simplify_surd_train.csv
+b'Simplify sqrt(76)/(sqrt(36)*-6) + sqrt(171) + -1 + -2.\n',b'-3 + 53*sqrt(19)/18\n',arithmetic__simplify_surd_train.csv
+b'Simplify (sqrt(154)/((sqrt(11) + sqrt(66)/sqrt(6))*-2))/(-3*sqrt(6050)).\n',b'sqrt(7)/660\n',arithmetic__simplify_surd_train.csv
+b'Simplify (-6*(sqrt(66) - (3*2*sqrt(66) - sqrt(66))))/(((-2*sqrt(240))/sqrt(8))/sqrt(5)) + -3.\n',b'-12*sqrt(11) - 3\n',arithmetic__simplify_surd_train.csv
+b'Simplify (0 + (-1*sqrt(832)*3*1 - 4*(sqrt(832) + sqrt(832) + 0)*5))**2.\n',b'1538368\n',arithmetic__simplify_surd_train.csv
+b'Simplify 1*(sqrt(65) - -3*2*sqrt(65))/(-1*sqrt(605)).\n',b'-7*sqrt(13)/11\n',arithmetic__simplify_surd_train.csv
+b'Simplify (2*(3 + sqrt(1008)))**2.\n',b'288*sqrt(7) + 4068\n',arithmetic__simplify_surd_train.csv
+b'Simplify (0 + (sqrt(1100) - (sqrt(1100) + 2 - sqrt(1100)) - sqrt(11)) + 3 - (3*sqrt(275) + 3 + -2*sqrt(11)))**2.\n',b'16*sqrt(11) + 180\n',arithmetic__simplify_surd_train.csv
+b'Simplify (6*(sqrt(441) + sqrt(49)) - (sqrt(49) + -1*sqrt(2401)))/(2*(-1*sqrt(847) - sqrt(847))) + 0.\n',b'-15*sqrt(7)/22\n',arithmetic__simplify_surd_train.csv
+b'Simplify 5 + ((sqrt(320) + sqrt(320) + -1)*-5)**2 + 0.\n',b'-800*sqrt(5) + 32030\n',arithmetic__simplify_surd_train.csv
+b'Simplify (sqrt(36) + sqrt(72)/(3*sqrt(2)))/(sqrt(588)*1).\n',b'4*sqrt(3)/21\n',arithmetic__simplify_surd_train.csv
+b'Simplify (-4 + (2 + sqrt(539))*-6 + (sqrt(539) - -2*sqrt(539)*3))**2.\n',b'-224*sqrt(11) + 795\n',arithmetic__simplify_surd_train.csv
+b'Simplify 5 + 3 + -5 + sqrt(19).\n',b'3 + sqrt(19)\n',arithmetic__simplify_surd_train.csv
+b'Simplify ((sqrt(432) + 0)*-1 - (-2*sqrt(432)*5)**2)*-4.\n',b'48*sqrt(3) + 172800\n',arithmetic__simplify_surd_train.csv
+b'Let w(p) = 2*p**4 - 5*p**3 + 5*p**2. Let y(l) = -l**4 + 6*l**3 - 5*l**2. Let n(a) = 6*w(a) + 5*y(a). What is the third derivative of n(h) wrt h?\n',b'168*h\n',calculus__differentiate_composed_train.csv
+b'Let l(t) be the first derivative of 2 + t**2 + 0*t + 1/3*t**3. What is the second derivative of l(j) wrt j?\n',b'2\n',calculus__differentiate_composed_train.csv
+b'Let s = -51 + 68. Differentiate -3 - s - 5 - 40*w**3 wrt w.\n',b'-120*w**2\n',calculus__differentiate_composed_train.csv
+b'What is the third derivative of 140*r**3 + 16*r**4 + 142*r**3 + 9 + 6*r**2 + 5 - 283*r**3 wrt r?\n',b'384*r - 6\n',calculus__differentiate_composed_train.csv
+b'Let l(j) be the second derivative of -397*j**7/6 + 677*j**4/4 + 7131*j. Find the third derivative of l(g) wrt g.\n',b'-166740*g**2\n',calculus__differentiate_composed_train.csv
+b'Let w be 34/4 + (-5)/(-10). Find the second derivative of 7*y + 6*y - w*y + 5*y**5 wrt y.\n',b'100*y**3\n',calculus__differentiate_composed_train.csv
+b'Find the third derivative of -1 + 192*o**2 - 181*o**2 + 2*o**3 - 2 wrt o.\n',b'12\n',calculus__differentiate_composed_train.csv
+b'Let h be -3 + -1*(-2 - -1). Let t = -2 - h. Find the second derivative of t*q - 4*q - q**5 + 2*q wrt q.\n',b'-20*q**3\n',calculus__differentiate_composed_train.csv
+b'Let j(z) = -z**3 - z**2 - z. Let w(v) = -v**4 - v - v - 3*v**2 - 2*v**3 + 0*v**2 - v**4. Let s(o) = -2*j(o) + w(o). What is the third derivative of s(k) wrt k?\n',b'-48*k\n',calculus__differentiate_composed_train.csv
+b'Suppose 9 = 14*k - 7*k - 5. Let x(t) be the first derivative of -6 - 13/3*t**3 + 0*t - 21/2*t**k. Find the second derivative of x(c) wrt c.\n',b'-26\n',calculus__differentiate_composed_train.csv
+b'Let c(t) be the second derivative of -197*t**5/10 - 31*t**3/2 - 449*t. What is the second derivative of c(o) wrt o?\n',b'-2364*o\n',calculus__differentiate_composed_train.csv
+b'Let q(p) = -12*p**3 - p + 5. Let s(u) = 18*u**3 + 2*u - 8. Let x(y) = 8*q(y) + 5*s(y). Find the second derivative of x(v) wrt v.\n',b'-36*v\n',calculus__differentiate_composed_train.csv
+"b'Suppose 10 = -5*n, -6 = -4*v - 6*n + n. Let a(i) = 3*i**4 + 8*i. Let t(c) = c**4. Let h(q) = v*t(q) - a(q). Find the second derivative of h(g) wrt g.\n'",b'12*g**2\n',calculus__differentiate_composed_train.csv
+b'Suppose 8*b = 24 + 1368. Find the first derivative of -b + 268*h - 376*h + 187*h wrt h.\n',b'79\n',calculus__differentiate_composed_train.csv
+b'Let d(y) be the second derivative of y**5/5 - 7*y**4/12 + y**3/3 - 3*y. Let l(g) = g**3 + g. Let i(z) = -d(z) + 2*l(z). Find the third derivative of i(j) wrt j.\n',b'-12\n',calculus__differentiate_composed_train.csv
+"b'Suppose -4*c + 18 = -0*c + 2*u, 0 = -3*c + 4*u + 8. Find the first derivative of 5*h**4 + 2 - 4*h**c + 2*h**4 wrt h.\n'",b'12*h**3\n',calculus__differentiate_composed_train.csv
+"b'Let b be 0*(7/3 - (5 + -3)). Suppose a - 4*a + 3 = -3*m, -3*m = a - 1. What is the second derivative of -3*q**2 + q - q**2 + m*q + b*q wrt q?\n'",b'-8\n',calculus__differentiate_composed_train.csv
+b'Let f(m) be the first derivative of -371*m**3/3 + 187*m + 339. Find the first derivative of f(b) wrt b.\n',b'-742*b\n',calculus__differentiate_composed_train.csv
+b'Let i(r) = -r**2 + 4. Let u be i(0). Differentiate -u + 1 + 6*s**2 + s**2 + 6 wrt s.\n',b'14*s\n',calculus__differentiate_composed_train.csv
+b'Suppose 0 = 4*o + o - 130. Find the second derivative of -20*i + o*i + 4*i**5 + 5*i**5 wrt i.\n',b'180*i**3\n',calculus__differentiate_composed_train.csv
+b'What is the derivative of -137*l**4 - 2*l - 80 wrt l?\n',b'-548*l**3 - 2\n',calculus__differentiate_train.csv
+b'Find the third derivative of -54*j**5 + 28*j**2 - j wrt j.\n',b'-3240*j**2\n',calculus__differentiate_train.csv
+b'Find the third derivative of -10074*h**3*i**3 - 2*h**3*i**2 - 2*h**3*i + 819*h**2*i**3 + 12*h*i**3 wrt h.\n',b'-60444*i**3 - 12*i**2 - 12*i\n',calculus__differentiate_train.csv
+b'Differentiate -2*a*d*q - 29247*a*d*x**3 - 3*a*x - 2*a + 4290*q*x**3 with respect to d.\n',b'-2*a*q - 29247*a*x**3\n',calculus__differentiate_train.csv
+b'Find the second derivative of -80467967*c**3 - 136106872*c wrt c.\n',b'-482807802*c\n',calculus__differentiate_train.csv
+b'Find the third derivative of t**4 - 55*t**3 - 108*t**2 - t wrt t.\n',b'24*t - 330\n',calculus__differentiate_train.csv
+b'What is the derivative of -306*d**2*p**2*w - 2*d*p**2*w**3 - 31*p**2*w**2 - 2*p*w**3 + w**2 wrt d?\n',b'-612*d*p**2*w - 2*p**2*w**3\n',calculus__differentiate_train.csv
+b'What is the third derivative of -d**2*f**6 - 1710*d**2*f**2 - 2*d*f**2 - 1321*f**5 wrt f?\n',b'-120*d**2*f**3 - 79260*f**2\n',calculus__differentiate_train.csv
+b'Find the second derivative of -281*v**2*y + 241*v**2 + 26*v*y + 215*v + 2*y + 2 wrt v.\n',b'-562*y + 482\n',calculus__differentiate_train.csv
+b'What is the second derivative of 2802682*d**5 + 822481812*d wrt d?\n',b'56053640*d**3\n',calculus__differentiate_train.csv
+b'Differentiate -209*b**3*r**2 - b**3 - 4*b*r**2 + 7*b + 166*r**2 - 1014 with respect to r.\n',b'-418*b**3*r - 8*b*r + 332*r\n',calculus__differentiate_train.csv
+b'Differentiate 78*i**2*s**3 - 9*i*s**3 + 1219*s**3 with respect to i.\n',b'156*i*s**3 - 9*s**3\n',calculus__differentiate_train.csv
+b'What is the third derivative of -341*x**5 + x**4 - 578*x**2 wrt x?\n',b'-20460*x**2 + 24*x\n',calculus__differentiate_train.csv
+b'What is the first derivative of -f**3 - f**2 + 507161*f - 10988467?\n',b'-3*f**2 - 2*f + 507161\n',calculus__differentiate_train.csv
+b'Find the second derivative of 1685704*x**2 + 60457*x + 4.\n',b'3371408\n',calculus__differentiate_train.csv
+b'Find the first derivative of 1758*k*t - 2*k - 1086*t wrt k.\n',b'1758*t - 2\n',calculus__differentiate_train.csv
+b'What is the third derivative of -157555*u**6 + 141811*u**2 wrt u?\n',b'-18906600*u**3\n',calculus__differentiate_train.csv
+b'What is the first derivative of 854742*g**2 + 3235590 wrt g?\n',b'1709484*g\n',calculus__differentiate_train.csv
+b'What is the second derivative of -2905*z**3 - 3605*z wrt z?\n',b'-17430*z\n',calculus__differentiate_train.csv
+b'Find the third derivative of -f**2*h**3*y**3 + 1165*f**2*h**3 + f**2*y - 3*f*h**2*y**3 - 4*f*h**2 - h**2*y**3 + 243*h**2 wrt h.\n',b'-6*f**2*y**3 + 6990*f**2\n',calculus__differentiate_train.csv
+"b'Let l = 3 + -1. Let n = -2.5 + l. Let b = -11 + 7. What is the closest to -0.1 in -0.2, b, n?\n'",b'-0.2\n',comparison__closest_composed_train.csv
+"b'Let k be ((-111)/9 + 1)*(-9)/(-12). What is the nearest to 2/5 in -0.5, k, -3?\n'",b'-0.5\n',comparison__closest_composed_train.csv
+"b'Let x be (-1 + -1)/(-68 - -71). Suppose -2*z - 5 = -3*z. What is the closest to x in z, 7/4, 0?\n'",b'0\n',comparison__closest_composed_train.csv
+"b'Let s = 2 - 1.28. Let f = 0.42 - s. Let h = -0.1 - 0. What is the nearest to -1 in h, f, -5?\n'",b'f\n',comparison__closest_composed_train.csv
+b'Let w = 0.16293 + 0.03707. Which is the nearest to 0.1?  (a) -0.1  (b) -0.14  (c) w  (d) -0.5\n',b'c\n',comparison__closest_composed_train.csv
+"b'Let h = -2.1568 - 0.0532. Let k = -0.21 - h. What is the closest to k in 4, -3, -1/3?\n'",b'4\n',comparison__closest_composed_train.csv
+"b'Suppose 3*m + 9 = 5*r, 5*r - m - 7 = 6. What is the closest to 0 in -2/3, 5, r?\n'",b'-2/3\n',comparison__closest_composed_train.csv
+b'Let f = 0 + -3. Let h = f - -2.8. Let n = -7 - -4. Which is the nearest to 1/4?  (a) n  (b) h  (c) 5\n',b'b\n',comparison__closest_composed_train.csv
+"b'Let b = -824 - -824.2. Let i = 3 - 2.8. What is the closest to b in -5, i, 0.4?\n'",b'i\n',comparison__closest_composed_train.csv
+b'Suppose -11*l - 56*l = 52*l - 20*l. Which is the closest to 0?  (a) 16  (b) 5  (c) 0.133  (d) l\n',b'd\n',comparison__closest_composed_train.csv
+"b'Let q = 53.8 - 52.8. What is the nearest to q in -1/3, 6, -0.5?\n'",b'-1/3\n',comparison__closest_composed_train.csv
+b'Let v = -1.63 + 12.73. Let l = 11 - v. Which is the nearest to 0.1?  (a) 4  (b) l  (c) 5\n',b'b\n',comparison__closest_composed_train.csv
+"b'Let z = 25/12 - 11/4. What is the closest to 1 in 0, z, -0.3?\n'",b'0\n',comparison__closest_composed_train.csv
+b'Let j(o) = o**3 + 9*o**2 + 3*o + 78. Let z be j(-10). Which is the nearest to 0?  (a) -0.8  (b) -0.5  (c) -1  (d) z\n',b'b\n',comparison__closest_composed_train.csv
+b'Let x = -4.646 + -0.354. Let l be 6*1/(-2)*-3. Which is the closest to -2/7?  (a) x  (b) l  (c) -0.4\n',b'c\n',comparison__closest_composed_train.csv
+b'Let x = 13/3 + -4. Which is the closest to 0?  (a) -0.4  (b) x  (c) -4\n',b'b\n',comparison__closest_composed_train.csv
+"b'Let n(h) = h**2 + 11*h - 22. Let a be n(-13). Let g = -29/2 + 13. Suppose -c = 2*c. What is the nearest to c in -0.3, a, g?\n'",b'-0.3\n',comparison__closest_composed_train.csv
+b'Let w = 21 - 21.06. Let i = 0.08 + w. Let t = 0.18 + i. Which is the closest to t?  (a) 2/5  (b) -1/4  (c) -0.5\n',b'a\n',comparison__closest_composed_train.csv
+"b'Let u be 290/(-280) + 2/7. What is the nearest to u in 0.3, -0.1, -2/3?\n'",b'-2/3\n',comparison__closest_composed_train.csv
+b'Let i = -11.6 - -12. Let v = 164 - 817/5. Let l = 43 + -300/7. Which is the nearest to -2?  (a) v  (b) l  (c) i\n',b'b\n',comparison__closest_composed_train.csv
+b'Which is the nearest to -96?  (a) -0.3  (b) 0.5  (c) -0.2\n',b'a\n',comparison__closest_train.csv
+"b'What is the nearest to 1 in 0.2, -1/5, 0.65, -1/3?\n'",b'0.65\n',comparison__closest_train.csv
+"b'What is the closest to 5 in 1/9, 2, -3138, -1?\n'",b'2\n',comparison__closest_train.csv
+"b'What is the closest to 1/11 in -1/3, 13, -0.15, 0.5, -0.2?\n'",b'-0.15\n',comparison__closest_train.csv
+b'Which is the closest to -1?  (a) -1/8  (b) -2716  (c) 1.19  (d) -5\n',b'a\n',comparison__closest_train.csv
+"b'What is the nearest to 1/4 in -3, 3/4, 0.4?\n'",b'0.4\n',comparison__closest_train.csv
+b'Which is the nearest to 1?  (a) 2174  (b) 2  (c) -2/11\n',b'b\n',comparison__closest_train.csv
+b'Which is the nearest to 2/3?  (a) 3  (b) 2/3  (c) -0.13\n',b'b\n',comparison__closest_train.csv
+b'Which is the closest to 13?  (a) -29  (b) 0.1  (c) -0.2  (d) -0.4\n',b'b\n',comparison__closest_train.csv
+"b'What is the closest to 0.2 in 1/8, 197/5, 5, 7/3?\n'",b'1/8\n',comparison__closest_train.csv
+"b'What is the closest to 2 in -0.09, 1090, -1/4?\n'",b'-0.09\n',comparison__closest_train.csv
+b'Which is the nearest to -0.1?  (a) 0.5  (b) 0  (c) 9/14\n',b'b\n',comparison__closest_train.csv
+b'Which is the closest to 9/2?  (a) -2  (b) 2  (c) -0.053  (d) -2/9\n',b'b\n',comparison__closest_train.csv
+"b'What is the nearest to 163849 in -0.3, -3, -10?\n'",b'-0.3\n',comparison__closest_train.csv
+"b'What is the closest to -138 in 1, 0.097, -2/9, 5, -1?\n'",b'-1\n',comparison__closest_train.csv
+"b'What is the nearest to -0.1 in -4, -0.06, -4.1?\n'",b'-0.06\n',comparison__closest_train.csv
+"b'What is the nearest to -1/3 in -2/3, -108, 1/3, -32?\n'",b'-2/3\n',comparison__closest_train.csv
+"b'What is the closest to -2/57 in 0.2, -0.6, -0.2?\n'",b'-0.2\n',comparison__closest_train.csv
+b'Which is the nearest to -14/3?  (a) -11  (b) -0.1  (c) 2\n',b'b\n',comparison__closest_train.csv
+b'Which is the nearest to 2/23?  (a) -413  (b) -1/7  (c) -2/17\n',b'c\n',comparison__closest_train.csv
+"b'Let r = -0.1 - 0.9. Let a = -0.501 - 0.039. Let p = 0.04 + a. What is the third smallest value in -2/5, p, r?\n'",b'-2/5\n',comparison__kth_biggest_composed_train.csv
+b'Let r = -41 + 41.3. Which is the biggest value?  (a) r  (b) -1  (c) -0.4\n',b'a\n',comparison__kth_biggest_composed_train.csv
+"b'Let n = 6 + -8. Let r = -11 + 5. Let p = r + 5.8. What is the biggest value in n, 3, p?\n'",b'3\n',comparison__kth_biggest_composed_train.csv
+"b'Let t = -11.7 - -2.7. Suppose -8 = z - 0. Let w = z - -11. What is the second biggest value in t, 0.4, w?\n'",b'0.4\n',comparison__kth_biggest_composed_train.csv
+b'Let s = -968.2 + 967.8. Let t = 4 + -3. Which is the biggest value?  (a) s  (b) -0.3  (c) t\n',b'c\n',comparison__kth_biggest_composed_train.csv
+b'Let i be 143798/(-2370) - 3/9. Let q = i + -31/79. Let n = 61 + q. Which is the second biggest value?  (a) 0.5  (b) 4/7  (c) n\n',b'a\n',comparison__kth_biggest_composed_train.csv
+b'Let f(v) = -4*v - v + 0*v**3 + 3 - v**3 - 7*v**2. Let y be f(-6). Let n = -2.6 - -3. Which is the smallest value?  (a) y  (b) -1/11  (c) n\n',b'a\n',comparison__kth_biggest_composed_train.csv
+b'Let n = -0.6 - -0.1. Let t = 1.5 - n. Let j = -0.3 + 0.2. Which is the second smallest value?  (a) t  (b) -3  (c) j\n',b'c\n',comparison__kth_biggest_composed_train.csv
+"b'Let v = 3 + -2. Let t(g) = 10*g**2 - 2*g + 1. Let c be t(v). Suppose 44 = 5*k + c. What is the smallest value in k, 0.2, 1?\n'",b'0.2\n',comparison__kth_biggest_composed_train.csv
+"b'Let k(s) = s**2 + 4*s + 14. Let a be k(-7). Suppose 4*d - 10 = 2*j, 6*d + a = 9*d + 4*j. Let x = -0.0349 - -0.1349. What is the biggest value in -3, -0.7, x, d?\n'",b'd\n',comparison__kth_biggest_composed_train.csv
+b'Let m = 30.067 + -0.067. Let j = m - 30.17. Let s = 0.13 - j. Which is the third smallest value?  (a) -0.2  (b) -0.5  (c) s\n',b'c\n',comparison__kth_biggest_composed_train.csv
+b'Let l = -2.07 + 0.07. Let y be ((-2)/(-24))/((-2)/(-4)). Which is the second smallest value?  (a) -4  (b) l  (c) y\n',b'b\n',comparison__kth_biggest_composed_train.csv
+b'Let d = 17.5 - 17. Which is the biggest value?  (a) -4  (b) -1/4  (c) d\n',b'c\n',comparison__kth_biggest_composed_train.csv
+"b'Let v = 1751.7 - 1752. What is the fourth biggest value in 0, -1.2, v, -1?\n'",b'-1.2\n',comparison__kth_biggest_composed_train.csv
+"b'Let r = 1020 + -1025. What is the second smallest value in r, -35, -3/4?\n'",b'r\n',comparison__kth_biggest_composed_train.csv
+"b'Let t = -70 - -70.2. Let j = 0.1 - 0.1. What is the second smallest value in j, -0.3, t?\n'",b'j\n',comparison__kth_biggest_composed_train.csv
+b'Let z be 2/18 - (11 + (-1359)/162). Which is the biggest value?  (a) z  (b) 1/3  (c) -3\n',b'b\n',comparison__kth_biggest_composed_train.csv
+b'Let u = 1 - 0.4. Let x = -33 + 28.6. Let j = u - x. Which is the third smallest value?  (a) -0.2  (b) j  (c) 3\n',b'b\n',comparison__kth_biggest_composed_train.csv
+b'Let o = 335/7 - 48. Which is the smallest value?  (a) 4/3  (b) o  (c) 0.4\n',b'b\n',comparison__kth_biggest_composed_train.csv
+"b'Let i be (150/(-15))/((-6)/(-9)*-6). What is the biggest value in -4, i, -0.3?\n'",b'i\n',comparison__kth_biggest_composed_train.csv
+b'Which is the smallest value?  (a) -1  (b) -2/15  (c) 649/4\n',b'a\n',comparison__kth_biggest_train.csv
+"b'What is the second smallest value in -0.07, -15, 0.1, -2?\n'",b'-2\n',comparison__kth_biggest_train.csv
+b'Which is the second smallest value?  (a) 2/13  (b) 2  (c) -7305\n',b'a\n',comparison__kth_biggest_train.csv
+b'Which is the second biggest value?  (a) 0.3  (b) -180  (c) 1/4  (d) -1/6  (e) 0.1\n',b'c\n',comparison__kth_biggest_train.csv
+"b'What is the third smallest value in 0.5, 0.9, 102, -4?\n'",b'0.9\n',comparison__kth_biggest_train.csv
+b'Which is the biggest value?  (a) 1/4  (b) 1/7  (c) -1.42\n',b'a\n',comparison__kth_biggest_train.csv
+"b'What is the third biggest value in -0.1, 11, 13/4?\n'",b'-0.1\n',comparison__kth_biggest_train.csv
+b'Which is the smallest value?  (a) -0.02  (b) -1.8  (c) -4\n',b'c\n',comparison__kth_biggest_train.csv
+"b'What is the smallest value in 0.3, 4/7, -10, 10?\n'",b'-10\n',comparison__kth_biggest_train.csv
+b'Which is the fifth smallest value?  (a) 11  (b) -4  (c) -1/2  (d) 1420838  (e) 1  (f) 5\n',b'a\n',comparison__kth_biggest_train.csv
+"b'What is the biggest value in 2/3, 12100, 0.4, 2?\n'",b'12100\n',comparison__kth_biggest_train.csv
+b'Which is the fifth biggest value?  (a) 3  (b) 0.5  (c) -2/9  (d) -3  (e) 44\n',b'd\n',comparison__kth_biggest_train.csv
+b'Which is the third biggest value?  (a) -7  (b) -115  (c) 4\n',b'b\n',comparison__kth_biggest_train.csv
+"b'What is the third biggest value in -3, -0.027, 0.4, 2/95?\n'",b'-0.027\n',comparison__kth_biggest_train.csv
+"b'What is the fifth biggest value in 0.093, -9/16, 3, -1/3, 0, -5?\n'",b'-9/16\n',comparison__kth_biggest_train.csv
+"b'What is the third biggest value in 0.3, -4, -4/7, 3, 258?\n'",b'0.3\n',comparison__kth_biggest_train.csv
+"b'What is the smallest value in -12.8, 2/3, 48, 2/7, 2, 3?\n'",b'-12.8\n',comparison__kth_biggest_train.csv
+"b'What is the third smallest value in 0.1, 43, -226/3?\n'",b'43\n',comparison__kth_biggest_train.csv
+"b'What is the third biggest value in 0.4, -0.1, 67, 2, 3?\n'",b'2\n',comparison__kth_biggest_train.csv
+"b'What is the smallest value in -2/7, 43, -1/4, -17?\n'",b'-17\n',comparison__kth_biggest_train.csv
+b'Let p = -673/7 + 96. Is -5 bigger than p?\n',b'False\n',comparison__pair_composed_train.csv
+b'Let t = 165 - 991/6. Do t and 2 have the same value?\n',b'False\n',comparison__pair_composed_train.csv
+b'Let j = -3 - -3. Let g(f) = -4*f**2 + 6*f + 4. Let y be g(5). Let b be ((-16)/y)/((-2)/6). Which is bigger: j or b?\n',b'j\n',comparison__pair_composed_train.csv
+b'Let v(p) = -p + 3. Let h be v(6). Let o = h - -11. Let l = o - 6. Which is bigger: 3/2 or l?\n',b'l\n',comparison__pair_composed_train.csv
+b'Suppose -6*g = -7*g - 44. Let p be (47/(-2))/((-22)/g). Let j = 53 + p. Is -0.1 bigger than j?\n',b'False\n',comparison__pair_composed_train.csv
+b'Let s = -0.3 - -0.2. Is -0.1 > s?\n',b'False\n',comparison__pair_composed_train.csv
+b'Let y = -2 - -4. Let r be (-7)/6 + 1/2. Which is bigger: r or y?\n',b'y\n',comparison__pair_composed_train.csv
+"b'Suppose 0*w + 3*c + 4 = w, w - 6 = 4*c. Let z be ((-4)/(-2))/2 + -3. Let d be z/4 - (-2)/(-4). Which is smaller: d or w?\n'",b'w\n',comparison__pair_composed_train.csv
+b'Let k(f) be the second derivative of f**4/4 + 5*f**3/3 + f**2 + 4*f. Let l be k(-3). Which is smaller: l or 5/38?\n',b'l\n',comparison__pair_composed_train.csv
+b'Let v = 2605 - 575707/221. Which is smaller: v or 17?\n',b'v\n',comparison__pair_composed_train.csv
+b'Let z(x) = x**2 - 2. Let k be z(3). Suppose 0 = 5*b - k*b. Let s be 24/28 - 0 - b. Which is smaller: s or 1?\n',b's\n',comparison__pair_composed_train.csv
+"b'Let z = -19 - -6. Suppose -24 = 4*p + l + 3*l, 2*p + 17 = -l. Which is smaller: p or z?\n'",b'z\n',comparison__pair_composed_train.csv
+b'Let l(n) = n - 8. Let s be l(7). Is s bigger than -3/7?\n',b'False\n',comparison__pair_composed_train.csv
+"b'Suppose -5*c - 918*i = -916*i + 17, -3*c - 3*i = 21. Let s(m) = -5 - 3*m + 1 + m**2 + 2. Let l be s(-2). Which is smaller: c or l?\n'",b'c\n',comparison__pair_composed_train.csv
+"b'Suppose 10 = -b + 4*x, -2*x - 22 = 3*b + b. Suppose -71*u + 69*u = 4. Which is bigger: b or u?\n'",b'u\n',comparison__pair_composed_train.csv
+"b'Suppose 11 + 89 = 4*y. Suppose 6*f + 14 = 2*f - 2*x, -5*f = 4*x + y. Let r(z) = -2*z - 11. Let v be r(-5). Does f = v?\n'",b'True\n',comparison__pair_composed_train.csv
+b'Let d be ((-9)/18)/((-9)/(-347)). Let g = -39/2 - d. Which is greater: -1 or g?\n',b'g\n',comparison__pair_composed_train.csv
+b'Let w(l) = -l + 16. Let x be w(15). Let v be x/2 - (-2 + (-33)/6). Let r(s) = s + 5. Let k be r(4). Which is greater: k or v?\n',b'k\n',comparison__pair_composed_train.csv
+b'Let c be (-1)/(0 + 1/3). Let d be 3 - c*6/(-9). Let j be 1 - 11/6 - -1. Which is greater: j or d?\n',b'd\n',comparison__pair_composed_train.csv
+b'Suppose -7 = n - 1. Let a be (-4)/6 + (-4)/n. Let z be 13 + -8 - 22/6. Is a at most z?\n',b'True\n',comparison__pair_composed_train.csv
+b'Is 102 equal to 102?\n',b'True\n',comparison__pair_train.csv
+b'Is 2142 not equal to 2142?\n',b'False\n',comparison__pair_train.csv
+b'Which is bigger: -318 or -238?\n',b'-238\n',comparison__pair_train.csv
+b'Which is greater: -2/2281419 or 0?\n',b'0\n',comparison__pair_train.csv
+b'Is -9130984 greater than or equal to -9130941?\n',b'False\n',comparison__pair_train.csv
+b'Which is bigger: -13/36 or 1?\n',b'1\n',comparison__pair_train.csv
+b'Does 0 = 7/317?\n',b'False\n',comparison__pair_train.csv
+b'Which is greater: 51 or 54?\n',b'54\n',comparison__pair_train.csv
+b'Which is greater: 87.84 or -1.3?\n',b'87.84\n',comparison__pair_train.csv
+b'Is 2 >= 6396/8351?\n',b'True\n',comparison__pair_train.csv
+b'Which is smaller: 818/5103 or 0?\n',b'0\n',comparison__pair_train.csv
+b'Which is smaller: 108 or -28?\n',b'-28\n',comparison__pair_train.csv
+b'Which is bigger: 1 or -3/784?\n',b'1\n',comparison__pair_train.csv
+b'Which is smaller: -4615932 or -4615937?\n',b'-4615937\n',comparison__pair_train.csv
+b'Is -22512 less than or equal to -22511?\n',b'True\n',comparison__pair_train.csv
+b'Is 24/121 less than or equal to -1?\n',b'False\n',comparison__pair_train.csv
+b'Which is greater: 150254 or 2/9?\n',b'150254\n',comparison__pair_train.csv
+b'Are -1/5381080 and -1 equal?\n',b'False\n',comparison__pair_train.csv
+b'Which is smaller: -3/118 or -1?\n',b'-1\n',comparison__pair_train.csv
+b'Which is greater: -80/31153 or 0?\n',b'0\n',comparison__pair_train.csv
+"b'Let a = 27.4 - 27. Put a, 0, -0.5 in increasing order.\n'","b'-0.5, 0, a\n'",comparison__sort_composed_train.csv
+"b'Let r = 0.1 + -0.1. Let o = -1/3 + 16/21. Let t be (-2 - -1) + -3 - -8. Sort r, t, o in ascending order.\n'","b'r, o, t\n'",comparison__sort_composed_train.csv
+"b'Let a = -46 - 10. Let n = -54 - a. Let t = 1 - 6. Put t, -3, n in descending order.\n'","b'n, -3, t\n'",comparison__sort_composed_train.csv
+"b'Let k = -60 - -75. Let y(u) = 2*u**2 - 31*u + 15. Let g be y(k). Put g, 3, -2 in increasing order.\n'","b'-2, g, 3\n'",comparison__sort_composed_train.csv
+"b'Suppose -24 = -4*q + 4*w, -5*q + 2*w = -0*w - 27. Sort -31, 4, -3, q, -13 in decreasing order.\n'","b'q, 4, -3, -13, -31\n'",comparison__sort_composed_train.csv
+"b'Let n = -66 + 66.5. Sort 6, n, -0.4, -5.\n'","b'-5, -0.4, n, 6\n'",comparison__sort_composed_train.csv
+"b'Let k be (-2)/(-8) + 14/8. Let d be -4 + 2 + 2 + 5. Let q be -1 - (-4 + 0/2). Put d, q, k in decreasing order.\n'","b'd, q, k\n'",comparison__sort_composed_train.csv
+"b'Let n = 5 + -4.9. Let u = 0.4 + n. Let f be ((-4)/63)/(8/(-12)). Put -5, u, f in ascending order.\n'","b'-5, f, u\n'",comparison__sort_composed_train.csv
+"b'Let k = 0.388 + 4.58. Let v = 0.032 + k. Let u = -2.98 + -0.02. Put u, 4, v in decreasing order.\n'","b'v, 4, u\n'",comparison__sort_composed_train.csv
+"b'Suppose 103*r + 22503 - 3448 = 0. Sort -3, r, -4 in decreasing order.\n'","b'-3, -4, r\n'",comparison__sort_composed_train.csv
+"b'Let s(b) = -13*b + 21. Let y be s(2). Suppose 53 - 140 = -3*r. Sort r, -4, y in decreasing order.\n'","b'r, -4, y\n'",comparison__sort_composed_train.csv
+"b'Let c be ((-2)/12)/((-1)/4). Let n = 1.3 + -2. Let v = n + -1.3. Put 5, c, v in decreasing order.\n'","b'5, c, v\n'",comparison__sort_composed_train.csv
+"b'Let f = 4 + -3. Let o be (-22)/(-10) - f/5. Sort o, -3, -1 in decreasing order.\n'","b'o, -1, -3\n'",comparison__sort_composed_train.csv
+"b'Let n be (-2)/((-28)/126) + -9. Sort -2, -4, -5, 8, n in ascending order.\n'","b'-5, -4, -2, n, 8\n'",comparison__sort_composed_train.csv
+"b'Let j = -36 + 44. Let k be ((-8)/60)/(j/(-84)). Let o = k + -39/35. Sort -10/9, o, 1/4.\n'","b'-10/9, 1/4, o\n'",comparison__sort_composed_train.csv
+"b'Let m = 93 + -97. Put -2, -3, 0, m in descending order.\n'","b'0, -2, -3, m\n'",comparison__sort_composed_train.csv
+"b'Let o be (-231)/44 + 2/8. Let y be ((-15)/6)/(1/(-2)). Sort o, y, -4.\n'","b'o, -4, y\n'",comparison__sort_composed_train.csv
+"b'Let q = 48/139 - 619/1390. Let b = -205 + 3077/15. Sort q, -0.4, b.\n'","b'-0.4, q, b\n'",comparison__sort_composed_train.csv
+"b'Let o(q) = -q**2 - 3*q + 3. Let l be o(-4). Let r be 2*((-6)/15 - 58/(-20)). Put r, 2, l in ascending order.\n'","b'l, 2, r\n'",comparison__sort_composed_train.csv
+"b'Suppose -105 = -15*h - 45. Suppose -7*l - 18 = -4*l. Let f(a) = -a - 1. Let r be f(l). Put h, -2, r in increasing order.\n'","b'-2, h, r\n'",comparison__sort_composed_train.csv
+"b'Put 0.08, 1/3, 2/3, -14/9 in descending order.\n'","b'2/3, 1/3, 0.08, -14/9\n'",comparison__sort_train.csv
+"b'Put 3, -5, 2, -87 in decreasing order.\n'","b'3, 2, -5, -87\n'",comparison__sort_train.csv
+"b'Sort 175, 94, -3/7 in descending order.\n'","b'175, 94, -3/7\n'",comparison__sort_train.csv
+"b'Sort -3, 2/3, -0.1, -9/8957, 4 in decreasing order.\n'","b'4, 2/3, -9/8957, -0.1, -3\n'",comparison__sort_train.csv
+"b'Sort -28, -19832, 11 in increasing order.\n'","b'-19832, -28, 11\n'",comparison__sort_train.csv
+"b'Put 4, -2, -14, 3, 11 in descending order.\n'","b'11, 4, 3, -2, -14\n'",comparison__sort_train.csv
+"b'Sort 4, 1, -3, -5, -4 in increasing order.\n'","b'-5, -4, -3, 1, 4\n'",comparison__sort_train.csv
+"b'Sort 2, 615, 4, -3 in descending order.\n'","b'615, 4, 2, -3\n'",comparison__sort_train.csv
+"b'Sort -2, 8715, 2, -0.4 in increasing order.\n'","b'-2, -0.4, 2, 8715\n'",comparison__sort_train.csv
+"b'Sort 0, -5, -4866390 in descending order.\n'","b'0, -5, -4866390\n'",comparison__sort_train.csv
+"b'Put 130, -2, -4, -8, 0 in descending order.\n'","b'130, 0, -2, -4, -8\n'",comparison__sort_train.csv
+"b'Put -4086, 2/3, 3/5, -4 in descending order.\n'","b'2/3, 3/5, -4, -4086\n'",comparison__sort_train.csv
+"b'Put 2, 4, 3/19 in descending order.\n'","b'4, 2, 3/19\n'",comparison__sort_train.csv
+"b'Sort 24, 19317, 1.\n'","b'1, 24, 19317\n'",comparison__sort_train.csv
+"b'Put 76, 1, 10, -6 in descending order.\n'","b'76, 10, 1, -6\n'",comparison__sort_train.csv
+"b'Sort -2, 4, 1, 3, -25 in increasing order.\n'","b'-25, -2, 1, 3, 4\n'",comparison__sort_train.csv
+"b'Sort 1.2, -4, -1235/12 in decreasing order.\n'","b'1.2, -4, -1235/12\n'",comparison__sort_train.csv
+"b'Put 1, -5, 0.962 in descending order.\n'","b'1, 0.962, -5\n'",comparison__sort_train.csv
+"b'Put -10, 10, 2, 3 in decreasing order.\n'","b'10, 3, 2, -10\n'",comparison__sort_train.csv
+"b'Sort 14, 3, 242, -14 in descending order.\n'","b'242, 14, 3, -14\n'",comparison__sort_train.csv
+b'How many nanoseconds are there in 9.76528s?\n',b'9765280000\n',measurement__conversion_train.csv
+b'How many hours are there in 5/6 of a day?\n',b'20\n',measurement__conversion_train.csv
+b'How many millilitres are there in 27/2 of a litre?\n',b'13500\n',measurement__conversion_train.csv
+b'How many millilitres are there in 43356.71 litres?\n',b'43356710\n',measurement__conversion_train.csv
+b'What is fourty-three halves of a litre in millilitres?\n',b'21500\n',measurement__conversion_train.csv
+b'What is 3/25 of a centimeter in micrometers?\n',b'1200\n',measurement__conversion_train.csv
+b'How many seconds are there in 0.3999744 microseconds?\n',b'0.0000003999744\n',measurement__conversion_train.csv
+b'How many millimeters are there in 1/10 of a kilometer?\n',b'100000\n',measurement__conversion_train.csv
+b'What is 8/25 of a century in years?\n',b'32\n',measurement__conversion_train.csv
+b'How many litres are there in 309075.4 millilitres?\n',b'309.0754\n',measurement__conversion_train.csv
+b'What is 5/8 of a litre in millilitres?\n',b'625\n',measurement__conversion_train.csv
+b'How many millilitres are there in 31/2 of a litre?\n',b'15500\n',measurement__conversion_train.csv
+b'How many millilitres are there in 810.0035 litres?\n',b'810003.5\n',measurement__conversion_train.csv
+b'What is 3.82245 millilitres in litres?\n',b'0.00382245\n',measurement__conversion_train.csv
+b'How many tonnes are there in 6.795851g?\n',b'0.000006795851\n',measurement__conversion_train.csv
+b'What is 64957.5 years in decades?\n',b'6495.75\n',measurement__conversion_train.csv
+b'What is seventy-seven fifths of a meter in millimeters?\n',b'15400\n',measurement__conversion_train.csv
+b'How many milligrams are there in 2.39535 tonnes?\n',b'2395350000\n',measurement__conversion_train.csv
+b'What is 19/4 of a week in minutes?\n',b'47880\n',measurement__conversion_train.csv
+b'What is 7/18 of a hour in seconds?\n',b'1400\n',measurement__conversion_train.csv
+b'How many minutes are there between 7:34 PM and 8:33 PM?\n',b'59\n',measurement__time_train.csv
+b'How many minutes are there between 3:03 AM and 10:22 AM?\n',b'439\n',measurement__time_train.csv
+b'What is 399 minutes after 12:07 PM?\n',b'6:46 PM\n',measurement__time_train.csv
+b'What is 286 minutes after 5:37 AM?\n',b'10:23 AM\n',measurement__time_train.csv
+b'How many minutes are there between 12:31 PM and 2:48 PM?\n',b'137\n',measurement__time_train.csv
+b'How many minutes are there between 2:39 PM and 10:39 PM?\n',b'480\n',measurement__time_train.csv
+b'What is 42 minutes after 7:08 PM?\n',b'7:50 PM\n',measurement__time_train.csv
+b'How many minutes are there between 7:03 AM and 9:28 AM?\n',b'145\n',measurement__time_train.csv
+b'How many minutes are there between 6:10 AM and 10:34 AM?\n',b'264\n',measurement__time_train.csv
+b'How many minutes are there between 4:27 PM and 8:39 PM?\n',b'252\n',measurement__time_train.csv
+b'How many minutes are there between 6:10 PM and 3:00 AM?\n',b'530\n',measurement__time_train.csv
+b'What is 203 minutes after 4:32 AM?\n',b'7:55 AM\n',measurement__time_train.csv
+b'What is 599 minutes after 11:07 AM?\n',b'9:06 PM\n',measurement__time_train.csv
+b'What is 703 minutes before 9:02 AM?\n',b'9:19 PM\n',measurement__time_train.csv
+b'How many minutes are there between 2:16 AM and 5:47 AM?\n',b'211\n',measurement__time_train.csv
+b'How many minutes are there between 5:15 AM and 12:48 PM?\n',b'453\n',measurement__time_train.csv
+b'How many minutes are there between 6:55 AM and 1:07 PM?\n',b'372\n',measurement__time_train.csv
+b'What is 467 minutes before 6:59 PM?\n',b'11:12 AM\n',measurement__time_train.csv
+b'How many minutes are there between 11:41 AM and 10:20 PM?\n',b'639\n',measurement__time_train.csv
+b'How many minutes are there between 9:35 AM and 7:27 PM?\n',b'592\n',measurement__time_train.csv
+b'Convert -33 (base 5) to base 2.\n',b'-10010\n',numbers__base_conversion_train.csv
+b'What is -10 (base 3) in base 5?\n',b'-3\n',numbers__base_conversion_train.csv
+b'What is 154 (base 15) in base 5?\n',b'2204\n',numbers__base_conversion_train.csv
+b'-15198 (base 11) to base 8\n',b'-52024\n',numbers__base_conversion_train.csv
+b'-1404200034 (base 5) to base 9\n',b'-6662770\n',numbers__base_conversion_train.csv
+b'Convert 102 (base 9) to base 4.\n',b'1103\n',numbers__base_conversion_train.csv
+b'-120 (base 4) to base 5\n',b'-44\n',numbers__base_conversion_train.csv
+b'Convert a7 (base 11) to base 16.\n',b'75\n',numbers__base_conversion_train.csv
+b'Convert 20020201 (base 3) to base 7.\n',b'16165\n',numbers__base_conversion_train.csv
+b'What is 101010110011111001100 (base 2) in base 7?\n',b'14631610\n',numbers__base_conversion_train.csv
+b'What is 130a7 (base 11) in base 6?\n',b'222451\n',numbers__base_conversion_train.csv
+b'Convert 4 (base 5) to base 12.\n',b'4\n',numbers__base_conversion_train.csv
+b'Convert -606 (base 7) to base 16.\n',b'-12c\n',numbers__base_conversion_train.csv
+b'What is 22130300310 (base 4) in base 13?\n',b'74ba79\n',numbers__base_conversion_train.csv
+b'What is 775 (base 11) in base 2?\n',b'1110100001\n',numbers__base_conversion_train.csv
+b'11 (base 14) to base 12\n',b'13\n',numbers__base_conversion_train.csv
+b'14043 (base 12) to base 10\n',b'27699\n',numbers__base_conversion_train.csv
+b'What is -30241 (base 6) in base 16?\n',b'-f91\n',numbers__base_conversion_train.csv
+b'What is -1122 (base 3) in base 14?\n',b'-32\n',numbers__base_conversion_train.csv
+b'-38ab (base 14) to base 11\n',b'-7527\n',numbers__base_conversion_train.csv
+"b'Suppose 0 = 2*h - 3*s - 15, -4*h = h - s - 5. Suppose h = n - 5*n. Let a = 1 + n. Calculate the remainder when a is divided by 1.\n'",b'0\n',numbers__div_remainder_composed_train.csv
+"b'Suppose 4*p - 2*j + 3*j - 15 = 0, 0 = -3*j - 15. Let s = -7 - -15. What is the remainder when s is divided by p?\n'",b'3\n',numbers__div_remainder_composed_train.csv
+b'Let n(x) = 3*x**3 - x**2 - 4*x + 3. Let f be n(2). Suppose -f*d - 220 = -19*d. What is the remainder when d is divided by 29?\n',b'26\n',numbers__div_remainder_composed_train.csv
+"b'Suppose -3*q + u + 33 = -92, 5*q - 4*u - 213 = 0. What is the remainder when 80 is divided by q?\n'",b'39\n',numbers__div_remainder_composed_train.csv
+b'Let w(d) = -84*d - 3. Calculate the remainder when w(-6) is divided by 2516/40 + 14/(-1400)*-10.\n',b'60\n',numbers__div_remainder_composed_train.csv
+b'Let g(f) = f**2 - f + 7. Let t be g(0). Let r(n) = n**2 + n + 56. Let m be r(0). Suppose m = t*s - 3*s. What is the remainder when 26 is divided by s?\n',b'12\n',numbers__div_remainder_composed_train.csv
+"b'Suppose 3*c = -q + 176, 0 = c + c + 4*q - 134. Suppose 2*g - c - 1 = 0. Calculate the remainder when g is divided by 8.\n'",b'5\n',numbers__div_remainder_composed_train.csv
+b'Calculate the remainder when ((-1456)/(-48))/(2/6) is divided by 31.\n',b'29\n',numbers__div_remainder_composed_train.csv
+b'Let d(v) = v**2 - 6*v + 10. Let t be d(4). Suppose -11 = -t*l + 1. What is the remainder when 23 is divided by l?\n',b'5\n',numbers__div_remainder_composed_train.csv
+b'Suppose -5 = 9*t - 113. Calculate the remainder when 485 is divided by t.\n',b'5\n',numbers__div_remainder_composed_train.csv
+b'Let x be 5/2*(-78)/(-15). Suppose 18*h - x*h = -25. Calculate the remainder when (-16)/20 + (-124)/h is divided by 5.\n',b'4\n',numbers__div_remainder_composed_train.csv
+b'Suppose 0 = -8*f + 5*f. Suppose -4*o + 6 + 14 = f. Suppose 6 = -4*h + 14. Calculate the remainder when o is divided by h.\n',b'1\n',numbers__div_remainder_composed_train.csv
+b'Suppose -3*t + 4*t = -27. Let s = t - -43. What is the remainder when s is divided by 9?\n',b'7\n',numbers__div_remainder_composed_train.csv
+b'Let q(b) = 17 - 3 + 2 + 9*b - 10*b. Let w = 53 + -70. What is the remainder when q(w) is divided by 9?\n',b'6\n',numbers__div_remainder_composed_train.csv
+b'Suppose -p = -3*p + 30. What is the remainder when p is divided by (-30)/(-5)*(-18)/(-12)?\n',b'6\n',numbers__div_remainder_composed_train.csv
+b'Let b = -11 - -7. What is the remainder when b/(-16) - 165/(-12) is divided by 5?\n',b'4\n',numbers__div_remainder_composed_train.csv
+b'Let v be (2 - (5 + -2)) + 57. Let r = v - 14. Let z = 10 - -5. Calculate the remainder when r is divided by z.\n',b'12\n',numbers__div_remainder_composed_train.csv
+b'Let v(l) = -l**2 - 30*l + 393. Calculate the remainder when v(9) is divided by 8.\n',b'2\n',numbers__div_remainder_composed_train.csv
+"b'Suppose 2*o + 1 = 7. Suppose 1 = b - 3*l, 0 = -b - o*b - 2*l + 46. Let j = -9 - -27. What is the remainder when j is divided by b?\n'",b'8\n',numbers__div_remainder_composed_train.csv
+b'Let c(k) = -k**2 + 16*k - 26. Let i(x) = -3*x - 7. Let d be i(-6). Calculate the remainder when c(d) is divided by 10.\n',b'9\n',numbers__div_remainder_composed_train.csv
+b'What is the remainder when 81 is divided by 19?\n',b'5\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 153 is divided by 55.\n',b'43\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 8785 is divided by 2189.\n',b'29\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 2273637 is divided by 10.\n',b'7\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 135053 is divided by 701.\n',b'461\n',numbers__div_remainder_train.csv
+b'What is the remainder when 587 is divided by 136?\n',b'43\n',numbers__div_remainder_train.csv
+b'What is the remainder when 1917 is divided by 19?\n',b'17\n',numbers__div_remainder_train.csv
+b'What is the remainder when 11520 is divided by 23?\n',b'20\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 23535 is divided by 23475.\n',b'60\n',numbers__div_remainder_train.csv
+b'What is the remainder when 10876 is divided by 996?\n',b'916\n',numbers__div_remainder_train.csv
+b'What is the remainder when 8606 is divided by 86?\n',b'6\n',numbers__div_remainder_train.csv
+b'What is the remainder when 1252 is divided by 114?\n',b'112\n',numbers__div_remainder_train.csv
+b'What is the remainder when 984 is divided by 10?\n',b'4\n',numbers__div_remainder_train.csv
+b'What is the remainder when 230031 is divided by 114969?\n',b'93\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 2554554 is divided by 3.\n',b'0\n',numbers__div_remainder_train.csv
+b'What is the remainder when 366 is divided by 74?\n',b'70\n',numbers__div_remainder_train.csv
+b'What is the remainder when 179209 is divided by 47?\n',b'45\n',numbers__div_remainder_train.csv
+b'What is the remainder when 108505 is divided by 700?\n',b'5\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 36 is divided by 12.\n',b'0\n',numbers__div_remainder_train.csv
+b'Calculate the remainder when 9903 is divided by 451.\n',b'432\n',numbers__div_remainder_train.csv
+b'Let h(m) = m**2 - m + 126. Suppose -6 + 0 = 2*i. Let p be (0/(i - -4))/(-1). Let g be h(p). Calculate the highest common factor of 18 and g.\n',b'18\n',numbers__gcd_composed_train.csv
+"b'Suppose 2 = -2*t - 5*m + 16, -2*m = 2*t - 8. Let r be 2/((t/(-1))/8). Let v = r + 11. What is the highest common factor of v and 3?\n'",b'3\n',numbers__gcd_composed_train.csv
+b'Let h be ((-1 - 1)/2)/((-72)/2304). Suppose 3*g = -g + h. What is the highest common factor of g and 88?\n',b'8\n',numbers__gcd_composed_train.csv
+b'Let f be (-1 + 3 - 2) + 1. Let a(i) = 3*i + 7. Let n(y) = -3*y + 15. Let j be n(5). Let l be a(j). Calculate the greatest common factor of l and f.\n',b'1\n',numbers__gcd_composed_train.csv
+b'Suppose 0 = -24*o + 2843 + 2883 + 7378. Calculate the highest common factor of o and 126.\n',b'42\n',numbers__gcd_composed_train.csv
+b'Let m = -20 - -41. Let x = m - 11. Calculate the greatest common factor of 5 and x.\n',b'5\n',numbers__gcd_composed_train.csv
+"b'Suppose -6 = -n - l, l - 8 = -n - n. Suppose n*b = -3*b + 20. Let y(g) = g**2 + 3. Let d be y(-5). What is the highest common divisor of b and d?\n'",b'4\n',numbers__gcd_composed_train.csv
+"b'Suppose 5 = -i + 6*i, n - 35 = -i. Suppose -4*s + 2 = v - 12, -2*v - 2*s = -n. What is the greatest common divisor of 180 and v?\n'",b'18\n',numbers__gcd_composed_train.csv
+b'Let d = 26 - 21. Suppose -s - d*s = -624. Calculate the highest common divisor of 13 and s.\n',b'13\n',numbers__gcd_composed_train.csv
+"b'Let f = 167 - 162. Suppose 0 = -f*s + 20, 0 = -o - o - 2*s + 92. Calculate the greatest common factor of o and 168.\n'",b'42\n',numbers__gcd_composed_train.csv
+b'Let p = 596 - 556. What is the greatest common divisor of p and 10?\n',b'10\n',numbers__gcd_composed_train.csv
+b'Suppose 0 = -m + 3 + 2. Calculate the highest common factor of m and 40.\n',b'5\n',numbers__gcd_composed_train.csv
+b'Let s be -3*1 + 5/5. Let c be (-4)/1*s/2. Suppose 0 = 4*z - 2*z - 48. Calculate the greatest common factor of c and z.\n',b'4\n',numbers__gcd_composed_train.csv
+b'Let w be 10 + -1*(2 + -5). Let u(b) = 9*b**2 - 57*b + 4. Let x be u(7). Suppose 845 = -41*m + x*m. What is the greatest common divisor of w and m?\n',b'13\n',numbers__gcd_composed_train.csv
+b'Let g(t) = 11*t**2 - 3*t - 8. Let d be g(-8). Let l be ((-8)/(-5))/(18/d). What is the greatest common factor of l and 16?\n',b'16\n',numbers__gcd_composed_train.csv
+b'Let q be (-49)/(-2) - (-9)/18. Calculate the highest common divisor of q and 125.\n',b'25\n',numbers__gcd_composed_train.csv
+b'Let n be (-1076)/12 - (-2)/(-6). Let g = -57 - n. Let c = 2 + g. Calculate the highest common factor of 7 and c.\n',b'7\n',numbers__gcd_composed_train.csv
+b'Let k = -5 + -15. Let w = 68 + k. Suppose 0 = p + 2*p - w. What is the highest common factor of 112 and p?\n',b'16\n',numbers__gcd_composed_train.csv
+"b'Let g be 12/(-4)*(-14)/3. Let m be 1/4 - 21/(-12). Suppose m*a - 30 = 4*p, 2*a - 3*p + 4*p - 10 = 0. What is the highest common factor of a and g?\n'",b'7\n',numbers__gcd_composed_train.csv
+"b'Suppose -5*d + 3*d = -12. Suppose 22 = 3*m + 4*b, -3*m - 4 + 66 = -4*b. Let a = m + 10. What is the greatest common factor of a and d?\n'",b'6\n',numbers__gcd_composed_train.csv
+b'Calculate the greatest common factor of 1377 and 612.\n',b'153\n',numbers__gcd_train.csv
+b'Calculate the greatest common factor of 2044 and 219.\n',b'73\n',numbers__gcd_train.csv
+b'What is the highest common divisor of 1066 and 21074?\n',b'82\n',numbers__gcd_train.csv
+b'Calculate the greatest common divisor of 11934 and 2142.\n',b'306\n',numbers__gcd_train.csv
+b'Calculate the highest common factor of 74478464 and 2432.\n',b'128\n',numbers__gcd_train.csv
+b'What is the greatest common factor of 20 and 115?\n',b'5\n',numbers__gcd_train.csv
+b'What is the greatest common factor of 55 and 10835?\n',b'55\n',numbers__gcd_train.csv
+b'What is the highest common divisor of 45 and 660?\n',b'15\n',numbers__gcd_train.csv
+b'What is the highest common factor of 2530 and 995555?\n',b'1265\n',numbers__gcd_train.csv
+b'Calculate the greatest common factor of 607306 and 24998698.\n',b'12394\n',numbers__gcd_train.csv
+b'What is the highest common divisor of 54850 and 100?\n',b'50\n',numbers__gcd_train.csv
+b'Calculate the greatest common factor of 14 and 112.\n',b'14\n',numbers__gcd_train.csv
+b'What is the greatest common factor of 481 and 65?\n',b'13\n',numbers__gcd_train.csv
+b'Calculate the greatest common divisor of 507394 and 227616.\n',b'4742\n',numbers__gcd_train.csv
+b'Calculate the highest common divisor of 517 and 3674.\n',b'11\n',numbers__gcd_train.csv
+b'Calculate the greatest common divisor of 784 and 5978.\n',b'98\n',numbers__gcd_train.csv
+b'Calculate the greatest common factor of 13768 and 24.\n',b'8\n',numbers__gcd_train.csv
+b'What is the highest common factor of 1152 and 816?\n',b'48\n',numbers__gcd_train.csv
+b'Calculate the greatest common divisor of 4419 and 3.\n',b'3\n',numbers__gcd_train.csv
+b'What is the greatest common divisor of 124985 and 14?\n',b'7\n',numbers__gcd_train.csv
+"b'Suppose 0*p + 5*p = 0. Suppose -r - b = -p - 7, -5*b - 7 = -r. Does 7 divide r?\n'",b'True\n',numbers__is_factor_composed_train.csv
+b'Let k(s) be the third derivative of s**4/24 + 3*s**3/2 + 3*s**2. Let x be k(-7). Is 12 a factor of (-18)/x*16/(-12)?\n',b'True\n',numbers__is_factor_composed_train.csv
+b'Let g be (-1 - 2/(-4))*0. Suppose g*m - 4 = -4*m. Let p(s) = 80*s + 1. Is p(m) a multiple of 27?\n',b'True\n',numbers__is_factor_composed_train.csv
+"b'Let u(x) = -2*x - 9. Let s be u(-6). Let z = 19 - 7. Suppose z = 2*l + s*j - 39, 3*l - 67 = 5*j. Is l a multiple of 6?\n'",b'True\n',numbers__is_factor_composed_train.csv
+"b'Let j = -283 - -284. Suppose -s + 108 = 5*t, -t + 4*s + 10 - j = 0. Does 13 divide t?\n'",b'False\n',numbers__is_factor_composed_train.csv
+b'Suppose -4*i + 12 = -2*i. Is 17 a factor of (-2)/(-12) - (-251)/i?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Let f(r) = r**3 + 15*r**2 + 22*r + 18. Is f(-13) a multiple of 5?\n',b'True\n',numbers__is_factor_composed_train.csv
+b'Let t(a) = 16*a - 2. Is t(4) a multiple of 9?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Let h be (7*-21)/((-30)/100). Let r = h - 141. Does 23 divide r?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Suppose 12*i = 269 - 65. Let p(a) = -a**2 + 16*a + 9. Let o be p(i). Does 6 divide (4/6)/(o/(-1236))?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Let b = 741 - -797. Is 6 a factor of b?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Is ((-75)/(-6))/((-1)/(-2)) a multiple of 5?\n',b'True\n',numbers__is_factor_composed_train.csv
+"b'Let u(c) = -3*c**3 - 2*c**2 + c - 1. Let i be u(-2). Suppose 2*y = g - i, g - 5*g + y = -59. Does 4 divide ((-10)/g)/(1/(-12))?\n'",b'True\n',numbers__is_factor_composed_train.csv
+b'Let x = -6376 + 9265. Is 107 a factor of x?\n',b'True\n',numbers__is_factor_composed_train.csv
+"b'Suppose r = -3*k - 3*r - 1491, -2*r = -3*k - 1509. Let q = -331 - k. Suppose q = -f + 6*f. Does 13 divide f?\n'",b'False\n',numbers__is_factor_composed_train.csv
+"b'Suppose -q + 5*n = -37, -2*n = -5*q + 74 + 19. Let g = q + -2. Does 7 divide g?\n'",b'False\n',numbers__is_factor_composed_train.csv
+b'Let b = -12 + -7. Let s be -1*(0 - -1) - b. Suppose -s = -t + 18. Is 18 a factor of t?\n',b'True\n',numbers__is_factor_composed_train.csv
+"b'Suppose -5*y + 5*l + 4555 = 0, y - 912 = 4*l - 2*l. Is y a multiple of 40?\n'",b'False\n',numbers__is_factor_composed_train.csv
+b'Let x(t) = -t**2 + 6*t + 7. Let a be x(7). Let w be a/(2/(-1)) - -2. Let l(v) = 3*v**2 + 2*v - 3. Does 9 divide l(w)?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Let z be 5 - 4 - (-48 - -1). Suppose -2*c = -16 + z. Let x = c + 34. Is 7 a factor of x?\n',b'False\n',numbers__is_factor_composed_train.csv
+b'Is 9 a factor of 45?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 6509 a multiple of 23?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 14113 a multiple of 59?\n',b'False\n',numbers__is_factor_train.csv
+b'Is 18 a factor of 735786?\n',b'True\n',numbers__is_factor_train.csv
+b'Does 15 divide 19007460?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 10760 a multiple of 8?\n',b'True\n',numbers__is_factor_train.csv
+b'Does 43 divide 2021?\n',b'True\n',numbers__is_factor_train.csv
+b'Does 5 divide 13715?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 13 a factor of 3680495?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 417776008 a multiple of 13?\n',b'True\n',numbers__is_factor_train.csv
+b'Does 182 divide 2595502?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 2007 a multiple of 17?\n',b'False\n',numbers__is_factor_train.csv
+b'Is 324 a multiple of 81?\n',b'True\n',numbers__is_factor_train.csv
+b'Does 33 divide 16873916?\n',b'False\n',numbers__is_factor_train.csv
+b'Does 19 divide 113468?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 23 a factor of 11345?\n',b'False\n',numbers__is_factor_train.csv
+b'Does 20 divide 853520?\n',b'True\n',numbers__is_factor_train.csv
+b'Is 444 a factor of 332681?\n',b'False\n',numbers__is_factor_train.csv
+b'Does 13 divide 1177?\n',b'False\n',numbers__is_factor_train.csv
+b'Does 118 divide 502901?\n',b'False\n',numbers__is_factor_train.csv
+b'Is ((-3)/(-2))/((-6)/(-452)) prime?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let w be -10*4/(-2 + 0). Let n = 7 + -12. Let p = w + n. Is p prime?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Suppose -6*w = 44*w - 431950. Is w a prime number?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Let s(c) = 20*c**2 + 10*c - 19. Let w(m) = 10*m**2 + 5*m - 10. Let p(t) = -2*s(t) + 5*w(t). Is p(-7) a prime number?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let j be (((-99)/(-2))/(-11) + 5)*6. Let r(c) = 1754*c**2 - 17*c + 52. Is r(j) prime?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let u = 16 + 85. Let t(k) = -k**2 - 5*k - 6. Let n be t(-6). Let f = n + u. Is f composite?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Suppose -7*q = -8357 - 6084. Is q a prime number?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let o(a) = 2*a**2 - 4. Is o(-9) prime?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Suppose v + 387 = -2*v. Let s = v + 237. Suppose 319 = k + s. Is k a composite number?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Let q(l) = l**3 + 19*l**2 - 231*l + 319. Is q(42) prime?\n',b'True\n',numbers__is_prime_composed_train.csv
+"b'Suppose 2*f - 460 = m, 3*f + 4*m - 712 = -0*f. Let n = -49 + f. Is n composite?\n'",b'True\n',numbers__is_prime_composed_train.csv
+"b'Let y = 24 + -24. Suppose u - 10 = g - 0, -u + 2*g = -15. Is y + 2 - (u + -112) composite?\n'",b'False\n',numbers__is_prime_composed_train.csv
+b'Let d(q) = -4*q**3 - 4*q**2 + q + 6. Let z = -21 - -16. Is d(z) a prime number?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let a(g) = -2227*g + 269. Let p(w) = 743*w - 89. Let i(u) = 4*a(u) + 11*p(u). Is i(-30) prime?\n',b'True\n',numbers__is_prime_composed_train.csv
+b'Let n(j) = 5*j**2 + 13*j + 9. Let p(b) = b**2 - b - 9. Let c be p(0). Let h be n(c). Let i = h + -170. Is i composite?\n',b'False\n',numbers__is_prime_composed_train.csv
+"b'Let m(l) = -49*l**3 + 3*l**2 + 4*l + 3. Let b be m(-2). Suppose 0 = -5*i - j + b, 4*j + 383 = 5*i + j. Is i composite?\n'",b'False\n',numbers__is_prime_composed_train.csv
+"b'Suppose d + y = 4*d - 19, 20 = 4*d + 4*y. Suppose 1 = n, l + 0*l = n - d. Let f(k) = -12*k - 7. Is f(l) composite?\n'",b'False\n',numbers__is_prime_composed_train.csv
+b'Let d(m) = -40*m**3 - 5*m**2 + 7*m - 5. Let v be d(-5). Suppose 0*c = -5*c + v. Is c composite?\n',b'False\n',numbers__is_prime_composed_train.csv
+b'Let s be 15/10 + 2/4. Suppose 3*m - s*m - 50 = 0. Is 5/2*m/5 a prime number?\n',b'False\n',numbers__is_prime_composed_train.csv
+"b'Suppose 0 = -4*t + 26 - 2. Suppose 0 = 5*s - t - 94. Suppose 2*k - 1961 = -5*b + 3*k, -5*k = -s. Is b prime?\n'",b'False\n',numbers__is_prime_composed_train.csv
+b'Is 200843 composite?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 150661 a composite number?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 4299001 composite?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 35524847 prime?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 875985497 a prime number?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 18479 a prime number?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 4643 a prime number?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 194 a composite number?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 238594613 composite?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 139677211 a composite number?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 92711027 prime?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 7753 composite?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 2171 a prime number?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 2290131821 prime?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 49763179 a prime number?\n',b'True\n',numbers__is_prime_train.csv
+b'Is 88333 prime?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 227481173 composite?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 18408053 composite?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 118423 composite?\n',b'False\n',numbers__is_prime_train.csv
+b'Is 16649 composite?\n',b'False\n',numbers__is_prime_train.csv
+"b'Suppose 2 = -5*c + 12. Suppose 0 = -c*l + l. Suppose l = 2*v, -5*v = -0*k - k + 2. What is the least common multiple of 10 and k?\n'",b'10\n',numbers__lcm_composed_train.csv
+"b'Let a = 4/9285 + -900733/204270. Suppose -3*k - 3*s = -8*s + 121, -s = 2*k + 72. Find the common denominator of a and k/(-70) + 21/(-35).\n'",b'154\n',numbers__lcm_composed_train.csv
+b'Calculate the common denominator of 196/(-144)*(120/5)/6 and -81/82.\n',b'738\n',numbers__lcm_composed_train.csv
+b'Let c = 181 + -346. Let i be (1 - c)*35/28. Let y = 201 - i. Find the common denominator of -64/9 and y.\n',b'18\n',numbers__lcm_composed_train.csv
+b'Let w = -6153731/16 + 384608. Let n = 3/946 - 833/113520. What is the common denominator of n and w?\n',b'240\n',numbers__lcm_composed_train.csv
+b'Let i(b) = -2*b + 2. Let n = 1 + 0. Let a = n - -1. What is the lowest common multiple of a and i(-6)?\n',b'14\n',numbers__lcm_composed_train.csv
+b'Let m = 44 + -24. What is the smallest common multiple of m and 54?\n',b'540\n',numbers__lcm_composed_train.csv
+"b'Let p = 5 - 0. Suppose p*h + 11 = x + 1, 3*x = 5*h. Calculate the lowest common multiple of (-2)/(-3) - 16/h and 7.\n'",b'42\n',numbers__lcm_composed_train.csv
+b'Find the common denominator of 62/27 and ((-27)/(-1215))/((-8)/196).\n',b'270\n',numbers__lcm_composed_train.csv
+"b'Suppose 0 = -4*v - 4*v - 8. Let j be v + (-63)/(-13) + 16/104. Suppose -j*c = -4*n - 660, -875 = c - 6*c - 5*n. What is the least common multiple of c and 4?\n'",b'340\n',numbers__lcm_composed_train.csv
+b'Calculate the common denominator of 34/59 and (-16)/(-12) + (0 - (-1611)/(-54)).\n',b'118\n',numbers__lcm_composed_train.csv
+b'What is the smallest common multiple of 14 and ((-78)/(-15))/((-1)/(-5))?\n',b'182\n',numbers__lcm_composed_train.csv
+b'Let f = -918 - -13756/15. Calculate the common denominator of f and 44/15.\n',b'15\n',numbers__lcm_composed_train.csv
+b'Let r(v) = v**2 - v + 8. Let o = -39 - -39. Let w be r(o). Find the common denominator of 14/20*w - -5 and -45.\n',b'5\n',numbers__lcm_composed_train.csv
+b'What is the common denominator of 143/96 and 14/(-14)*(-47)/(-6)?\n',b'96\n',numbers__lcm_composed_train.csv
+b'Calculate the smallest common multiple of 10 and (1 - 2)*2 + 12.\n',b'10\n',numbers__lcm_composed_train.csv
+b'Find the common denominator of 55/4 - (4 - -3 - 5) and ((-790)/(-12))/5 + 0.\n',b'12\n',numbers__lcm_composed_train.csv
+b'Suppose -18*g + 926 + 1180 = 0. Calculate the lowest common multiple of 54 and g.\n',b'702\n',numbers__lcm_composed_train.csv
+b'Calculate the lowest common multiple of ((-96)/(-12))/(1*2) and 18.\n',b'36\n',numbers__lcm_composed_train.csv
+b'Let n = -10 + 16. Let a(f) = 6*f**2 - f. Let y(l) = l**2 + 3*l - 3. Let v be y(-4). What is the smallest common multiple of a(v) and n?\n',b'30\n',numbers__lcm_composed_train.csv
+b'Calculate the common denominator of -107/476 and -8/1785.\n',b'7140\n',numbers__lcm_train.csv
+b'Calculate the least common multiple of 240 and 480.\n',b'480\n',numbers__lcm_train.csv
+b'What is the lowest common multiple of 5907 and 4296?\n',b'47256\n',numbers__lcm_train.csv
+b'What is the least common multiple of 468888 and 351666?\n',b'1406664\n',numbers__lcm_train.csv
+b'Calculate the lowest common multiple of 1259031 and 120729.\n',b'8813217\n',numbers__lcm_train.csv
+b'What is the lowest common multiple of 226 and 339?\n',b'678\n',numbers__lcm_train.csv
+b'What is the smallest common multiple of 90 and 105?\n',b'630\n',numbers__lcm_train.csv
+b'Calculate the smallest common multiple of 10320 and 129.\n',b'10320\n',numbers__lcm_train.csv
+b'What is the common denominator of 47/7805 and -71/20?\n',b'31220\n',numbers__lcm_train.csv
+b'What is the common denominator of 29/1716 and 97/42350?\n',b'3303300\n',numbers__lcm_train.csv
+b'Find the common denominator of 29/20 and 37/941720.\n',b'941720\n',numbers__lcm_train.csv
+b'Find the common denominator of 89/112 and -103/6.\n',b'336\n',numbers__lcm_train.csv
+b'Find the common denominator of -19/6 and -17/382.\n',b'1146\n',numbers__lcm_train.csv
+b'What is the common denominator of 137/5289410 and -121/9823190?\n',b'68762330\n',numbers__lcm_train.csv
+b'Calculate the common denominator of -7/20 and 29/768.\n',b'3840\n',numbers__lcm_train.csv
+b'Calculate the smallest common multiple of 32 and 2304.\n',b'2304\n',numbers__lcm_train.csv
+b'What is the common denominator of -47/21152 and -25/679508?\n',b'5436064\n',numbers__lcm_train.csv
+b'Find the common denominator of 19/6624 and -37/15456.\n',b'46368\n',numbers__lcm_train.csv
+b'What is the common denominator of -43/35 and -16/1911?\n',b'9555\n',numbers__lcm_train.csv
+b'What is the smallest common multiple of 25272 and 25272?\n',b'25272\n',numbers__lcm_train.csv
+b'Let v(k) = 2*k + 36. What are the prime factors of v(11)?\n',"b'2, 29\n'",numbers__list_prime_factors_composed_train.csv
+b'Let t(m) = 2*m + 0*m + 10 - m. List the prime factors of t(-7).\n',b'3\n',numbers__list_prime_factors_composed_train.csv
+"b'Let g be (1 + 0 + 0)*2. Let j = -85 - -88. Suppose j*v = 3, g*v + 3*v = -c + 22. What are the prime factors of c?\n'",b'17\n',numbers__list_prime_factors_composed_train.csv
+b'Suppose 0*u = 7*u. What are the prime factors of (u - 9*-2) + 4?\n',"b'2, 11\n'",numbers__list_prime_factors_composed_train.csv
+b'Let v be (-5)/30*-8*6/(-4). Let g = v - -5. Suppose g*f - 182 = 142. What are the prime factors of f?\n',"b'2, 3\n'",numbers__list_prime_factors_composed_train.csv
+b'Let d(o) = -o**2 - 6*o + 3. Let n be d(-8). Let g = 28 + n. What are the prime factors of g?\n',"b'3, 5\n'",numbers__list_prime_factors_composed_train.csv
+b'What are the prime factors of 411/4 + (-3)/(-12)?\n',b'103\n',numbers__list_prime_factors_composed_train.csv
+b'Suppose -3*d = -4*d + 37. What are the prime factors of d?\n',b'37\n',numbers__list_prime_factors_composed_train.csv
+b'Let h = 38 + -27. Let j = h + -8. Suppose 35 = j*r + 2. What are the prime factors of r?\n',b'11\n',numbers__list_prime_factors_composed_train.csv
+b'Let r(c) = -c**3 + 4*c**2 - 67*c - 261. List the prime factors of r(-26).\n',"b'47, 463\n'",numbers__list_prime_factors_composed_train.csv
+b'Suppose 0 = 5*o + 24 + 76. What are the prime factors of 1/4 - 735/o?\n',b'37\n',numbers__list_prime_factors_composed_train.csv
+"b'Let g(c) = 0*c**2 + 3 - 4*c**3 - 2*c**2 + c - 2 + 3*c**2. Let v be g(-1). Suppose s + 9 = q + 3*s, -5*s - 45 = -v*q. What are the prime factors of q?\n'",b'3\n',numbers__list_prime_factors_composed_train.csv
+b'Let o(n) = n**2. Let s be o(-3). Let y = s - 4. List the prime factors of y.\n',b'5\n',numbers__list_prime_factors_composed_train.csv
+"b'Let r = 6 - 1. Suppose -4*v - 2*s = 490, -r*v - s - 625 = 4*s. Let j = 209 + v. What are the prime factors of j?\n'",b'89\n',numbers__list_prime_factors_composed_train.csv
+"b'Let l be -3 - (4 + (-1 - 0)). Let h be ((-2)/(-3))/(l/(-207)). Suppose h = u + u + w, -2*u - 5*w + 3 = 0. List the prime factors of u.\n'","b'2, 7\n'",numbers__list_prime_factors_composed_train.csv
+b'List the prime factors of (4 - 5)/(2/(-50)).\n',b'5\n',numbers__list_prime_factors_composed_train.csv
+b'Let o(f) = -6 - f + 8 - 4. Let t be o(-11). Suppose 0 = -t*s + 6*s + 198. What are the prime factors of s?\n',"b'2, 3, 11\n'",numbers__list_prime_factors_composed_train.csv
+b'Let r be 3*(-4)/18 + (-9)/27. Let o(f) = -12*f + 2. What are the prime factors of o(r)?\n',"b'2, 7\n'",numbers__list_prime_factors_composed_train.csv
+"b'Suppose 0 = -l + 5*g - 10*g + 34, 5*g - 136 = -4*l. List the prime factors of l.\n'","b'2, 17\n'",numbers__list_prime_factors_composed_train.csv
+b'Let v be (7/5 + 1)/(4/10). Suppose -v*f = 65 - 491. What are the prime factors of f?\n',b'71\n',numbers__list_prime_factors_composed_train.csv
+b'List the prime factors of 703.\n',"b'19, 37\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 11776.\n',"b'2, 23\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 226521?\n',"b'3, 25169\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 393833.\n',"b'11, 35803\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 111222135.\n',"b'3, 5, 23, 41, 2621\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 9163.\n',"b'7, 11, 17\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 54592.\n',"b'2, 853\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 6738?\n',"b'2, 3, 1123\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 140390?\n',"b'2, 5, 101, 139\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 473595692.\n',"b'2, 5807, 20389\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 4174336.\n',"b'2, 31, 263\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 9398.\n',"b'2, 37, 127\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 1214.\n',"b'2, 607\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 47454466?\n',"b'2, 41, 383, 1511\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 10683879.\n',"b'3, 3561293\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 25103?\n',"b'13, 1931\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 408759.\n',"b'3, 13, 47, 223\n'",numbers__list_prime_factors_train.csv
+b'What are the prime factors of 1006593?\n',"b'3, 7, 47933\n'",numbers__list_prime_factors_train.csv
+b'List the prime factors of 311.\n',b'311\n',numbers__list_prime_factors_train.csv
+b'What are the prime factors of 17524?\n',"b'2, 13, 337\n'",numbers__list_prime_factors_train.csv
+b'Suppose -1295 = -8*f + 3*f. What is the tens digit of f?\n',b'5\n',numbers__place_value_composed_train.csv
+b'Let f be (-12)/(-9)*(4 + -1). Suppose -9 = 2*k - 5*k. Let s = f - k. What is the units digit of s?\n',b'1\n',numbers__place_value_composed_train.csv
+b'What is the hundreds digit of 1332/126*(1028/8 - -1)?\n',b'3\n',numbers__place_value_composed_train.csv
+"b'Suppose 0 = 15*n - 10*n + 3*d + 22, 15 = -4*n - 5*d. What is the units digit of 50/(n/(-1) - 4)?\n'",b'0\n',numbers__place_value_composed_train.csv
+b'Let c = -20 + -64. Suppose 4*h - 1113 = -3*h. Let r = c + h. What is the units digit of r?\n',b'5\n',numbers__place_value_composed_train.csv
+b'Let d(y) = -y**2 + 6*y - 4. Suppose 0 = -t + 3*t - 10. What is the units digit of d(t)?\n',b'1\n',numbers__place_value_composed_train.csv
+"b'Suppose 2*a - m = 45, 33 = 4*a - 2*a - 5*m. Suppose 4 = 2*c + a. Let r = 18 + c. What is the units digit of r?\n'",b'8\n',numbers__place_value_composed_train.csv
+"b'Suppose 5*o - 4*x = 65, 3*x = 3*o - 8*o + 100. Suppose o = 3*f - 13. What is the units digit of f?\n'",b'0\n',numbers__place_value_composed_train.csv
+b'Let p = 2701 - 1193. What is the units digit of p?\n',b'8\n',numbers__place_value_composed_train.csv
+b'Let s(u) = 85*u - 93. Let f = -63 - -69. What is the hundreds digit of s(f)?\n',b'4\n',numbers__place_value_composed_train.csv
+"b'Suppose -4*x + 1 = 2*w + 11, 4*w - x - 16 = 0. Suppose -4*t = 5*a - 187, 2*a = -w*a + 3*t + 166. What is the tens digit of a?\n'",b'3\n',numbers__place_value_composed_train.csv
+"b'Suppose 0 = 3*u - 12, 5*d + 0*u - 3*u - 483 = 0. What is the units digit of d?\n'",b'9\n',numbers__place_value_composed_train.csv
+b'Let r be -1 - (3 - 1) - 0. Let b = 8 + r. What is the units digit of b?\n',b'5\n',numbers__place_value_composed_train.csv
+b'Suppose 6*g - 7*g - 47604 = -3*g. What is the thousands digit of g?\n',b'3\n',numbers__place_value_composed_train.csv
+b'What is the tens digit of 16/12*(-2484)/(-8)?\n',b'1\n',numbers__place_value_composed_train.csv
+b'Let f(u) = 3*u - 18. Let t be f(6). Let g(v) = -v**2 + 6*v + 1. Let i be g(5). Let n = i + t. What is the units digit of n?\n',b'6\n',numbers__place_value_composed_train.csv
+b'Suppose 682 = 6*r + 1864. Let w = -103 - r. What is the tens digit of w?\n',b'9\n',numbers__place_value_composed_train.csv
+b'Let m be 4/14 - (-351)/21. Suppose 0 = -5*a + m*a - 492. What is the tens digit of a?\n',b'4\n',numbers__place_value_composed_train.csv
+"b'Let j be 1*(-1)/3*-9. Suppose 0 = 2*p - 0*p - 5*x - 30, -x = j*p - 28. What is the units digit of p?\n'",b'0\n',numbers__place_value_composed_train.csv
+"b'Suppose 12532 = 3*r + z - 1747, r - 4767 = -4*z. What is the thousands digit of r?\n'",b'4\n',numbers__place_value_composed_train.csv
+b'What is the tens digit of 49164?\n',b'6\n',numbers__place_value_train.csv
+b'What is the units digit of 2310?\n',b'0\n',numbers__place_value_train.csv
+b'What is the ten millions digit of 13126429?\n',b'1\n',numbers__place_value_train.csv
+b'What is the tens digit of 940443?\n',b'4\n',numbers__place_value_train.csv
+b'What is the thousands digit of 38617784?\n',b'7\n',numbers__place_value_train.csv
+b'What is the tens digit of 637?\n',b'3\n',numbers__place_value_train.csv
+b'What is the ten thousands digit of 22755?\n',b'2\n',numbers__place_value_train.csv
+b'What is the thousands digit of 4609?\n',b'4\n',numbers__place_value_train.csv
+b'What is the units digit of 253839?\n',b'9\n',numbers__place_value_train.csv
+b'What is the hundred thousands digit of 696528288?\n',b'5\n',numbers__place_value_train.csv
+b'What is the hundred thousands digit of 4487272?\n',b'4\n',numbers__place_value_train.csv
+b'What is the tens digit of 2645?\n',b'4\n',numbers__place_value_train.csv
+b'What is the hundreds digit of 3518?\n',b'5\n',numbers__place_value_train.csv
+b'What is the thousands digit of 3847319854?\n',b'9\n',numbers__place_value_train.csv
+b'What is the ten millions digit of 22197895?\n',b'2\n',numbers__place_value_train.csv
+b'What is the ten thousands digit of 28233?\n',b'2\n',numbers__place_value_train.csv
+b'What is the thousands digit of 2178152?\n',b'8\n',numbers__place_value_train.csv
+b'What is the hundreds digit of 869082?\n',b'0\n',numbers__place_value_train.csv
+b'What is the hundreds digit of 82168?\n',b'1\n',numbers__place_value_train.csv
+b'What is the millions digit of 4248041?\n',b'4\n',numbers__place_value_train.csv
+b'Suppose 0 - 8 = -4*m. Suppose m*b + 7742 = -2258. What is b rounded to the nearest ten thousand?\n',b'-10000\n',numbers__round_number_composed_train.csv
+b'Let u = 63.37 + -63. Round u to 1 decimal place.\n',b'0.4\n',numbers__round_number_composed_train.csv
+b'Let c = -54.399196 + 54.4. Round c to 4 dps.\n',b'0.0008\n',numbers__round_number_composed_train.csv
+b'Let q = -0.0831 - -11.0581. Let m = q + -11. Let y = m + 0.905. Round y to one dp.\n',b'0.9\n',numbers__round_number_composed_train.csv
+b'Let t = 3.57 + -7.83. Let r = -0.11 + 0.21. Let a = r + t. What is a rounded to one dp?\n',b'-4.2\n',numbers__round_number_composed_train.csv
+b'Let t = 1283.3008 + -1282. Let o = 1.3 - t. Round o to 3 decimal places.\n',b'-0.001\n',numbers__round_number_composed_train.csv
+b'Suppose 11*h - 6214 + 17324 = 0. Round h to the nearest one thousand.\n',b'-1000\n',numbers__round_number_composed_train.csv
+b'Let m = 1152238707604.1000035 + -1152239000030. Let i = m - -292426. Let g = -0.1 + i. What is g rounded to 6 decimal places?\n',b'0.000004\n',numbers__round_number_composed_train.csv
+b'Let t be 237916536/352 + 3/4. Round t to the nearest 100000.\n',b'700000\n',numbers__round_number_composed_train.csv
+b'Let x = -2.3944 - -2.043. Let y = x + -0.0096. Round y to one dp.\n',b'-0.4\n',numbers__round_number_composed_train.csv
+b'Let v = 1796 - 1766.78. Round v to the nearest integer.\n',b'29\n',numbers__round_number_composed_train.csv
+b'Let l = -86 + 59. What is l rounded to the nearest 10?\n',b'-30\n',numbers__round_number_composed_train.csv
+b'Let b = -119 - -69. Round b to the nearest ten.\n',b'-50\n',numbers__round_number_composed_train.csv
+b'Let p = -116.93 - -117.48299. Let j = p - 0.3795. Let q = -0.175 + j. What is q rounded to 4 dps?\n',b'-0.0015\n',numbers__round_number_composed_train.csv
+"b'Let t(z) = -6 + 0*z + 2 + 0 + 3*z. Let g be t(3). Suppose 5*x + 7463 - 69458 = g*w, -5*x + 3*w + 61997 = 0. What is x rounded to the nearest one thousand?\n'",b'12000\n',numbers__round_number_composed_train.csv
+b'Let s = 27502.3483 - 27500. Let k = -2.36 + s. Round k to 3 dps.\n',b'-0.012\n',numbers__round_number_composed_train.csv
+b'Let g = -33.3 + 10.9. What is g rounded to the nearest integer?\n',b'-22\n',numbers__round_number_composed_train.csv
+b'Let s = 59 - -218. Round s to the nearest one hundred.\n',b'300\n',numbers__round_number_composed_train.csv
+b'Suppose 112108468 = 4*o - 80471236. Suppose 2*i + 10350340 = o. Let v = i - 28697293. What is v rounded to the nearest one million?\n',b'-10000000\n',numbers__round_number_composed_train.csv
+b'Let g = -5.717 + -0.523. Round g to zero dps.\n',b'-6\n',numbers__round_number_composed_train.csv
+b'What is 92.23 rounded to the nearest integer?\n',b'92\n',numbers__round_number_train.csv
+b'Round -0.0008022 to 5 dps.\n',b'-0.0008\n',numbers__round_number_train.csv
+b'What is -655258 rounded to the nearest 10000?\n',b'-660000\n',numbers__round_number_train.csv
+b'What is 29922780 rounded to the nearest 100000?\n',b'29900000\n',numbers__round_number_train.csv
+b'Round -3975311403 to the nearest 1000000.\n',b'-3975000000\n',numbers__round_number_train.csv
+b'Round 1.7036 to 2 dps.\n',b'1.7\n',numbers__round_number_train.csv
+b'Round 78000 to the nearest 1000000.\n',b'0\n',numbers__round_number_train.csv
+b'What is -0.07479 rounded to 2 dps?\n',b'-0.07\n',numbers__round_number_train.csv
+b'Round 37823900 to the nearest 1000000.\n',b'38000000\n',numbers__round_number_train.csv
+b'What is -0.0020693654 rounded to 3 decimal places?\n',b'-0.002\n',numbers__round_number_train.csv
+b'Round -326944.7 to the nearest 1000.\n',b'-327000\n',numbers__round_number_train.csv
+b'Round 372809 to the nearest 10000.\n',b'370000\n',numbers__round_number_train.csv
+b'What is -3.26 rounded to 1 dp?\n',b'-3.3\n',numbers__round_number_train.csv
+b'Round 0.312299872 to one decimal place.\n',b'0.3\n',numbers__round_number_train.csv
+b'What is -0.0010219968 rounded to six decimal places?\n',b'-0.001022\n',numbers__round_number_train.csv
+b'What is -0.72018 rounded to two dps?\n',b'-0.72\n',numbers__round_number_train.csv
+b'Round -49693200 to the nearest 100000.\n',b'-49700000\n',numbers__round_number_train.csv
+b'What is 37.93916 rounded to the nearest integer?\n',b'38\n',numbers__round_number_train.csv
+b'Round 2742.71 to the nearest 100.\n',b'2700\n',numbers__round_number_train.csv
+b'Round -1177.279 to the nearest ten.\n',b'-1180\n',numbers__round_number_train.csv
+b'Let p(g) = -21*g - 9. Let i(b) = -1. What is -18*i(o) + 2*p(o)?\n',b'-42*o\n',polynomials__add_train.csv
+b'Let y(z) = 2. Let v(m) be the second derivative of -m**3/6 - 5*m**2 + 7*m. Give -2*v(q) - 11*y(q).\n',b'2*q - 2\n',polynomials__add_train.csv
+b'Let r(u) = -2*u + 475. Let q(i) = -2*i + 473. Give -4*q(m) + 3*r(m).\n',b'2*m - 467\n',polynomials__add_train.csv
+b'Let i = -17 + 28. Let c = i + -16. Let m(o) = o**3 + 3*o**2 + 5*o + 5. Let r(p) = p**2 + 2*p + 2. Calculate c*r(d) + 2*m(d).\n',b'2*d**3 + d**2\n',polynomials__add_train.csv
+b'Let y(u) = 3*u + 18. Let q be 51/(-7) - (-2)/7. Let l(k) = -26*k - 28. Let h(m) = -23*m - 26. Let b(s) = -8*h(s) + 7*l(s). What is q*b(w) + 5*y(w)?\n',b'w + 6\n',polynomials__add_train.csv
+b'Let c(p) = 31*p**2 + 24*p - 49. Let x(b) = 8*b**2 + 6*b - 12. Let s(o) = 2*c(o) - 9*x(o). Let y(u) = 3*u**2 + 2*u - 3. Give 2*s(z) + 7*y(z).\n',b'z**2 + 2*z - 1\n',polynomials__add_train.csv
+b'Let t(o) = -375*o + 35. Let l(u) = -22*u + 2. Calculate 35*l(b) - 2*t(b).\n',b'-20*b\n',polynomials__add_train.csv
+"b'Let n(y) = 9*y - 7. Let t(g) = 5*g - 4. Suppose -3*z + 5*z - 4*u - 24 = 0, -5*z + 3*u + 81 = 0. Let h = z + -13. What is h*t(o) - 3*n(o)?\n'",b'-2*o + 1\n',polynomials__add_train.csv
+b'Let c(u) = 1. Let b = 55 + -46. Let h(r) = r - 5. Let j be 1/(-3) - (-768)/9. Let s be (-3)/7 - j/(-35). Calculate b*c(k) + s*h(k).\n',b'2*k - 1\n',polynomials__add_train.csv
+b'Let b(a) = -a**3 + a**2 - 1. Let r(y) = -6*y**3 + 18*y**2 - 5. Suppose -217*m = 635 - 1720. Determine m*b(f) - r(f).\n',b'f**3 - 13*f**2\n',polynomials__add_train.csv
+b'Let u(v) = -19*v - 40. Let a(f) = -23*f - 41. Determine -6*a(q) + 7*u(q).\n',b'5*q - 34\n',polynomials__add_train.csv
+b'Let l be (-3 - -1) + 3/1. Let n = l - 0. Let w(h) = 4*h + 4*h**2 - 6*h**3 + 4 - 4. Let m(z) = z**3 - z**2 - z. Calculate n*w(q) + 4*m(q).\n',b'-2*q**3\n',polynomials__add_train.csv
+b'Let p(a) = 3*a + 2. Let u(b) = 3*b + 3. Let x(v) = v + 1. Let r(f) = -u(f) + 4*x(f). What is -p(o) + 2*r(o)?\n',b'-o\n',polynomials__add_train.csv
+b'Let c(q) = 5*q - 12*q - 312 - 304 - 6*q**3 + 3*q**2 + 621 - 7*q**2. Let f(u) = -7*u**3 - 3*u**2 - 8*u + 6. Determine 6*c(b) - 5*f(b).\n',b'-b**3 - 9*b**2 - 2*b\n',polynomials__add_train.csv
+b'Let r(q) = -8*q - 9. Let f be 8/(-14) - 255/105. Let y(x) = 4*x + 4. Determine f*r(l) - 7*y(l).\n',b'-4*l - 1\n',polynomials__add_train.csv
+b'Let j(h) = 14*h**2 - 2*h + 3. Let d(k) be the second derivative of -3*k**4/4 + k**3/6 - k**2 + 27*k. Give 8*d(n) + 5*j(n).\n',b'-2*n**2 - 2*n - 1\n',polynomials__add_train.csv
+b'Let c(z) = 54*z + 2. Let d(q) = -162*q - 8. Determine -7*c(n) - 2*d(n).\n',b'-54*n + 2\n',polynomials__add_train.csv
+b'Let g(h) = 8*h**2 - 4*h**3 - 1 + h - 4*h**2 - 2. Let t be (-2)/2*(-12)/(-18)*6. Let l(k) = 4*k**3 - 5*k**2 - 2*k + 4. What is t*g(n) - 3*l(n)?\n',b'4*n**3 - n**2 + 2*n\n',polynomials__add_train.csv
+b'Let m(w) = w + 4. Let j(a) = -2 - 1 + 1 + 1. Let l(y) = y**2 + 8*y + 9. Let d be l(-7). Let h be (-22)/(-18) - d/9. Give h*m(p) + 3*j(p).\n',b'p + 1\n',polynomials__add_train.csv
+b'Let o(n) be the first derivative of 3/2*n**2 + 6 + 0*n. Let a(u) = 6*u. What is -3*a(s) + 5*o(s)?\n',b'-3*s\n',polynomials__add_train.csv
+b'Express -2*y + y - y**2 + 11 - 10 in the form c*y + h + u*y**2 and give c.\n',b'-1\n',polynomials__coefficient_named_train.csv
+b'Express 0*t**2 + 2*t**2 + 0*t**2 - 2*t**2 + 0*t**2 + t**2 + (-1 + 1 - 2*t**2)*(3 + 1 - 5) + 32*t**2 - 164*t + 164*t as m + u*t + j*t**2 and give j.\n',b'35\n',polynomials__coefficient_named_train.csv
+b'Express 11784 - 11784 - 95*h**2 in the form y*h + u + j*h**2 and give j.\n',b'-95\n',polynomials__coefficient_named_train.csv
+b'Rearrange 114*r**3 + 4459*r + 48*r**3 - 4458*r - 4*r**2 - 2*r**2 + 4*r**2 to the form x + t*r**2 + g*r**3 + w*r and give t.\n',b'-2\n',polynomials__coefficient_named_train.csv
+b'Express f - 5*f + 2*f + (84*f - 184*f + 155*f)*(32 - 1 - 61) in the form n + t*f and give t.\n',b'-1652\n',polynomials__coefficient_named_train.csv
+b'Rearrange -16*i**2 + 5*i**2 + 1 - 2*i**4 + 11*i**2 + 3*i**3 to b + x*i**4 + y*i + q*i**3 + h*i**2 and give q.\n',b'3\n',polynomials__coefficient_named_train.csv
+b'Express (d - d + d)*(4 - 3 - 2)*(d - 3*d + d + (-5*d + 2*d + d)*(3 - 5 + 0) - 4*d + 4*d - 9*d) in the form k + s*d + v*d**2 and give v.\n',b'6\n',polynomials__coefficient_named_train.csv
+b'Express o**3 - 1 + o**3 + 3 - o + 0*o in the form p + r*o**2 + d*o**3 + z*o and give z.\n',b'-1\n',polynomials__coefficient_named_train.csv
+b'Express -301 + 301 + 192*t**2 in the form d + s*t + j*t**2 and give j.\n',b'192\n',polynomials__coefficient_named_train.csv
+b'Rearrange 2053274*m + 1 - 2*m**3 + 2*m**4 - m**2 - 3*m**4 - 2053256*m to the form g*m + p*m**3 + v + x*m**4 + s*m**2 and give g.\n',b'18\n',polynomials__coefficient_named_train.csv
+b'Express 4*w**4 + 40 - 13*w + 4*w**4 - 6*w**4 + 11*w + 2*w**3 + 2*w**2 in the form g*w**4 + y + o*w + f*w**2 + s*w**3 and give o.\n',b'-2\n',polynomials__coefficient_named_train.csv
+b'Rearrange -7*o**2 - 3*o**2 - 21*o**2 - 5*o**2 to f*o**2 + d*o + r and give r.\n',b'0\n',polynomials__coefficient_named_train.csv
+b'Rearrange (-4*q - 39*q - 18*q)*(-3*q**2 + q**2 + q**2)*(q - 3*q + 0*q) to a*q**3 + t*q**4 + w + g*q**2 + i*q and give t.\n',b'-122\n',polynomials__coefficient_named_train.csv
+b'Rearrange -j**2 + 404*j**4 + 0*j**3 - 1 - 4*j**3 - 2*j + 0*j**2 - 405*j**4 to f*j + y*j**4 + p*j**3 + a + l*j**2 and give a.\n',b'-1\n',polynomials__coefficient_named_train.csv
+b'Rearrange 56*u**2 + 56*u**2 - 114*u**2 - 407*u to t + d*u**2 + h*u and give h.\n',b'-407\n',polynomials__coefficient_named_train.csv
+b'Express (-164 + 21 - 46*q**2 + 48*q**2)*(-2*q + 0 + 0)*(0 - q + 0) as o*q**3 + z*q + c*q**4 + r*q**2 + h and give r.\n',b'-286\n',polynomials__coefficient_named_train.csv
+b'Express (3 - 3 + f)*(-16*f**2 - 29*f**2 + 83*f**2) - 7*f**3 - 21 + 21 in the form a + m*f**2 + q*f**3 + h*f and give q.\n',b'31\n',polynomials__coefficient_named_train.csv
+b'Rearrange 19*j**3 - 7*j + 5*j - 21*j**3 - 24 to x*j**2 + p*j**3 + z*j + u and give z.\n',b'-2\n',polynomials__coefficient_named_train.csv
+b'Rearrange 38*s**4 + 2*s - 7*s**3 - 36*s**4 - 2*s - 3*s**2 + s to t*s**3 + w*s**2 + q + m*s + l*s**4 and give t.\n',b'-7\n',polynomials__coefficient_named_train.csv
+b'Express 6 - 311*p**2 - 3*p - 309*p**2 + 624*p**2 - p**3 - 2*p**4 in the form o*p**2 + z*p**4 + g*p**3 + y + d*p and give d.\n',b'-3\n',polynomials__coefficient_named_train.csv
+b'Collect the terms in -6*u + 2*u - 3*u + 3*u.\n',b'-4*u\n',polynomials__collect_train.csv
+b'Collect the terms in -4*z**3 - 736*z**2 + 736*z**2.\n',b'-4*z**3\n',polynomials__collect_train.csv
+b'Collect the terms in 14*d**3 + 7*d**3 - 31*d**3 - 11108 + 8*d**3.\n',b'-2*d**3 - 11108\n',polynomials__collect_train.csv
+b'Collect the terms in 3*f + 99 + 64 - 163 + 3*f - 4*f.\n',b'2*f\n',polynomials__collect_train.csv
+b'Collect the terms in -614*u**3 - 857*u**3 + u**2 - u**2 - 1383*u**3.\n',b'-2854*u**3\n',polynomials__collect_train.csv
+b'Collect the terms in -2*l - 912 - 914 + 1826.\n',b'-2*l\n',polynomials__collect_train.csv
+b'Collect the terms in 0*v - 6*v + 0*v + 4*v.\n',b'-2*v\n',polynomials__collect_train.csv
+b'Collect the terms in 549 - 549 + 8*a**3.\n',b'8*a**3\n',polynomials__collect_train.csv
+b'Collect the terms in 619 + 2*s - 211 - 203 - 205.\n',b'2*s\n',polynomials__collect_train.csv
+b'Collect the terms in -20*c + 1158 + 1147 - 2306 + 25*c.\n',b'5*c - 1\n',polynomials__collect_train.csv
+b'Collect the terms in -1089*k**2 + 2493 - 2493 + 78*k**2.\n',b'-1011*k**2\n',polynomials__collect_train.csv
+b'Collect the terms in -2*d**3 + 4*d**2 + 0*d**2 + 14*d**2 - 18*d**2.\n',b'-2*d**3\n',polynomials__collect_train.csv
+b'Collect the terms in -6*b - b + 10*b**3 - 9*b**3 - 2*b.\n',b'b**3 - 9*b\n',polynomials__collect_train.csv
+b'Collect the terms in 21280*l + 21278*l - 63838*l - 322*l**3 + 314*l**3 + 21280*l.\n',b'-8*l**3\n',polynomials__collect_train.csv
+b'Collect the terms in -1768*y**2 - 4 + 4 + 1768*y**2 + 15*y**3.\n',b'15*y**3\n',polynomials__collect_train.csv
+b'Collect the terms in 46*z**2 - 14*z**2 - 7*z**2 - 13*z**2 - 10*z**2.\n',b'2*z**2\n',polynomials__collect_train.csv
+b'Collect the terms in 4*v - 41598 + 41598.\n',b'4*v\n',polynomials__collect_train.csv
+b'Collect the terms in -114 + 112 + 3*i**3 - 89*i + i**3.\n',b'4*i**3 - 89*i - 2\n',polynomials__collect_train.csv
+b'Collect the terms in w**3 - 83753 + 83753.\n',b'w**3\n',polynomials__collect_train.csv
+b'Collect the terms in 220*f + 112*f - 6 - 334*f.\n',b'-2*f - 6\n',polynomials__collect_train.csv
+b'Let c(x) = -x - 18. Let w(j) = j**2. What is w(c(p))?\n',b'p**2 + 36*p + 324\n',polynomials__compose_train.csv
+b'Let g(a) = 3*a**2. Let t(k) = -75*k**2 + 42*k**2 + 32*k**2. Determine g(t(z)).\n',b'3*z**4\n',polynomials__compose_train.csv
+b'Let m(j) = 222*j - 3. Let w(c) = 2*c - 7. Calculate w(m(p)).\n',b'444*p - 13\n',polynomials__compose_train.csv
+"b'Let l(c) = -189*c. Let z(k) = -5*k. Suppose 5*j - 4*j - 312 = 4*s, 2*j = 5*s + 393. Let w(h) = s*z(h) + 2*l(h). Let o(n) = -n**2. What is w(o(f))?\n'",b'-7*f**2\n',polynomials__compose_train.csv
+b'Let j(m) = -47*m - 10. Let u(h) = -4*h**2 + 3070*h - 3070*h + 0*h**2. Give u(j(w)).\n',b'-8836*w**2 - 3760*w - 400\n',polynomials__compose_train.csv
+b'Let r(m) = 4*m**2. Let a(h) = -4*h**2 - 2*h + 2. Let w(p) = 11*p**2 + 7*p - 7. Let b(s) = -7*a(s) - 2*w(s). Calculate b(r(f)).\n',b'96*f**4\n',polynomials__compose_train.csv
+b'Let l(x) be the third derivative of -x**5/60 + 14*x**2. Let z(f) = 8*f**2. Calculate z(l(t)).\n',b'8*t**4\n',polynomials__compose_train.csv
+b'Let p(s) be the third derivative of s**5/60 - s**2. Let v(q) = -q**2 - q + 1. Let u(t) = 3*t - 2 - 4*t + 3*t. Let a(d) = u(d) + 2*v(d). What is a(p(j))?\n',b'-2*j**4\n',polynomials__compose_train.csv
+b'Let z(w) = 4546*w + 4. Let b(m) = 23*m. Determine b(z(l)).\n',b'104558*l + 92\n',polynomials__compose_train.csv
+b'Let u(o) = 3*o. Let y = 2 + 7. Let n(g) = 9*g + 34*g - 39*g + 13*g**2. Let v(s) = -27*s**2 - 9*s. Let x(j) = y*n(j) + 4*v(j). What is u(x(b))?\n',b'27*b**2\n',polynomials__compose_train.csv
+b'Let f(c) = -731*c**2. Let u(s) = -64*s. Give f(u(q)).\n',b'-2994176*q**2\n',polynomials__compose_train.csv
+b'Let v(y) = 1 - 5*y**2 - 29*y**2 - 1. Let f(a) = a. Determine f(v(h)).\n',b'-34*h**2\n',polynomials__compose_train.csv
+b'Let i(m) = -m**2 + 7*m. Let s(x) = 5*x**2. Give s(i(p)).\n',b'5*p**4 - 70*p**3 + 245*p**2\n',polynomials__compose_train.csv
+b'Let s(t) = -2*t. Let i(r) = -163027*r**2 + 21. Calculate i(s(f)).\n',b'-652108*f**2 + 21\n',polynomials__compose_train.csv
+"b'Let b(f) = 6*f. Suppose -i = -4*s + 16, 4*s - 5*i - 16 = -i. Let h(o) = -o - 2*o + 8*o + s*o. What is b(h(t))?\n'",b'54*t\n',polynomials__compose_train.csv
+b'Let w(k) = 21*k**2 - 9*k. Let a(u) = -10*u**2 + 4*u. Let x(s) = 9*a(s) + 4*w(s). Let q(r) = 3*r. What is x(q(z))?\n',b'-54*z**2\n',polynomials__compose_train.csv
+b'Let y(l) = -2*l. Let q(b) = -265763*b**2. Give y(q(f)).\n',b'531526*f**2\n',polynomials__compose_train.csv
+b'Let r(f) = f**2 + 2*f + 4424. Let l(c) = 3*c**2. What is r(l(b))?\n',b'9*b**4 + 6*b**2 + 4424\n',polynomials__compose_train.csv
+b'Let v(y) be the second derivative of -2*y**3/3 - y. Let p(f) = f + 2*f + f - 3*f. Give p(v(g)).\n',b'-4*g\n',polynomials__compose_train.csv
+b'Let j(p) be the second derivative of p**3/3 + 17*p - 2. Let s(x) = 5*x**2 + 19. Determine j(s(h)).\n',b'10*h**2 + 38\n',polynomials__compose_train.csv
+b'Let r be (9/15)/((-1)/5). Let p(o) = -3*o**2 - 3*o + 1. Give p(r).\n',b'-17\n',polynomials__evaluate_composed_train.csv
+b'Let x(k) = 9 + 2*k**2 - 2 - 2*k**2 + 8*k + k**2. What is x(-5)?\n',b'-8\n',polynomials__evaluate_composed_train.csv
+"b'Let f(p) = p + 1. Let i = 12 - 12. Suppose -68 = -3*l - 2*u, i = -4*l + 3*u + 11 + 108. Suppose 5*b - 5 = -3*g + 3, 4*g = b + l. Give f(g).\n'",b'7\n',polynomials__evaluate_composed_train.csv
+b'Suppose -50*k = -58*k + 32. Let s(f) = -f**3 + 3*f**2 + 4*f + 3. What is s(k)?\n',b'3\n',polynomials__evaluate_composed_train.csv
+"b'Suppose 0 = 4*b + 2*c + 14, -b - 37 + 6 = -5*c. Let g(s) = 866*s**3 + 5*s**2 - 2 - 7*s - 1732*s**3 + 867*s**3. Determine g(b).\n'",b'4\n',polynomials__evaluate_composed_train.csv
+"b'Suppose -3*t + 6 = -6. Suppose t*p + 12 = -4*b, -17 = 3*p + 3*b - 8*b. Let a(v) be the first derivative of -v**4/4 - 4*v**3/3 + 5*v + 2. What is a(p)?\n'",b'5\n',polynomials__evaluate_composed_train.csv
+b'Let c(x) = 2*x - 1. Let g(n) = -n. Let z(h) = 3*c(h) + 3*g(h). Let k(w) = -w**2 - 5*w - 3. Let o be k(-3). What is z(o)?\n',b'6\n',polynomials__evaluate_composed_train.csv
+b'Suppose -9*t + 4*t = -25. Let s(f) = 0*f + 0*f**2 + 4 - f**2 + 5*f. Determine s(t).\n',b'4\n',polynomials__evaluate_composed_train.csv
+b'Let b be (-30)/3*-1 - 1. Let r be (b/(-2) - -2)*-2. Let v(k) = 1 - 2*k + k**2 - k - 2*k**3 + r*k. Determine v(2).\n',b'-7\n',polynomials__evaluate_composed_train.csv
+b'Let q(f) = -54*f - 1830. Let m be q(-34). Let n(l) = -2*l + 28. Calculate n(m).\n',b'16\n',polynomials__evaluate_composed_train.csv
+b'Let m(b) be the second derivative of b**5/60 - b**4/4 - 4*b**3/3 + 11*b**2/2 - 10*b. Let r(t) be the first derivative of m(t). Give r(6).\n',b'-8\n',polynomials__evaluate_composed_train.csv
+b'Let f(a) be the third derivative of a**6/120 + 3*a**5/20 + a**3 - 11*a**2. What is f(-9)?\n',b'6\n',polynomials__evaluate_composed_train.csv
+b'Suppose 0 = b + b - 4. Suppose -b*o + 2 = -10. Let j(h) = h**2 - 6*h + 8. Calculate j(o).\n',b'8\n',polynomials__evaluate_composed_train.csv
+b'Let o be (-46)/10 + (-2)/5. Let n = o + -1. Let m(a) = -3*a**2 + 0*a**2 + 0*a + 9*a - 6467*a**3 - 2*a**2 + 6466*a**3 + 3. Calculate m(n).\n',b'-15\n',polynomials__evaluate_composed_train.csv
+b'Let u(k) = -k**2 - 3*k - 2. Let v = -957 + 953. Give u(v).\n',b'-6\n',polynomials__evaluate_composed_train.csv
+b'Let r(b) be the second derivative of b**5/20 + 5*b**4/12 + b**3/2 + b**2/2 + 3*b + 5. Let u = 4 + -9. Give r(u).\n',b'-14\n',polynomials__evaluate_composed_train.csv
+"b'Suppose i - 4 = 0, 263 = 4*s - i - 129. Let a be s/21 - (-14)/49. Let c(z) = -4 + z - 1 + z. Calculate c(a).\n'",b'5\n',polynomials__evaluate_composed_train.csv
+b'Let p(q) = 5*q**2 - 3*q + 8. Let r(m) = -4*m**2 + 3*m - 7. Let j(u) = -5*p(u) - 6*r(u). Let g be j(-4). Let a(i) = 8*i + 1. Determine a(g).\n',b'-15\n',polynomials__evaluate_composed_train.csv
+b'Let d(i) = -i - 8. Let v be d(-6). Let j(m) = -2 - 1 + 3 - 2*m. Give j(v).\n',b'4\n',polynomials__evaluate_composed_train.csv
+b'Let z be 24/(-18)*(-3)/(-2). Let q(d) = 2*d**3 - 2*d**2 - d + 2. Calculate q(z).\n',b'-20\n',polynomials__evaluate_composed_train.csv
+b'Let s(i) = -i**3 - 22*i**2 - 19*i + 29. Calculate s(-21).\n',b'-13\n',polynomials__evaluate_train.csv
+b'Let b(v) = 23*v + 1. What is b(1)?\n',b'24\n',polynomials__evaluate_train.csv
+b'Let f(s) = s**3 - 17*s**2 + 13*s + 45. Determine f(16).\n',b'-3\n',polynomials__evaluate_train.csv
+b'Let b(c) = -26*c**2 - 3457*c + 127. What is b(-133)?\n',b'-6\n',polynomials__evaluate_train.csv
+b'Let n(s) = 5*s**2 + 76*s - 538. Calculate n(7).\n',b'239\n',polynomials__evaluate_train.csv
+b'Let h(r) = r**2 + 3*r - 6. Determine h(-6).\n',b'12\n',polynomials__evaluate_train.csv
+b'Let m(d) = -3*d**3 + 2*d**2 - 1. What is m(-1)?\n',b'4\n',polynomials__evaluate_train.csv
+b'Let j(w) = -w**3 - 6*w**2 + 14*w - 10. Determine j(-8).\n',b'6\n',polynomials__evaluate_train.csv
+b'Let x(o) = -o**3 + 13*o**2 + 9*o - 122. Determine x(13).\n',b'-5\n',polynomials__evaluate_train.csv
+b'Let f(z) = 29*z**2 + 255*z - 69. Give f(-7).\n',b'-433\n',polynomials__evaluate_train.csv
+b'Let p(o) = -5*o**2 - 173*o - 65. Give p(-34).\n',b'37\n',polynomials__evaluate_train.csv
+b'Let m(w) = 10*w - 373. What is m(33)?\n',b'-43\n',polynomials__evaluate_train.csv
+b'Let v(u) = -u**3 - 5*u**2 + 8*u + 8. What is v(-6)?\n',b'-4\n',polynomials__evaluate_train.csv
+b'Let o(f) = 112*f - 1056. Determine o(8).\n',b'-160\n',polynomials__evaluate_train.csv
+b'Let i(g) = 50*g + 359. Calculate i(-8).\n',b'-41\n',polynomials__evaluate_train.csv
+b'Let y(b) = b**3 + 6*b**2 - 2*b - 16. Determine y(-7).\n',b'-51\n',polynomials__evaluate_train.csv
+b'Let m(f) = -f**2 + 17*f - 353. What is m(11)?\n',b'-287\n',polynomials__evaluate_train.csv
+b'Let a(p) = -4*p - 469. What is a(-92)?\n',b'-101\n',polynomials__evaluate_train.csv
+b'Let n(b) = -b**3 + 59*b**2 + b - 49. What is n(59)?\n',b'10\n',polynomials__evaluate_train.csv
+b'Let m(c) = c**2 - 21*c - 6168. Give m(-68).\n',b'-116\n',polynomials__evaluate_train.csv
+b'Expand (f**2 + 5*f**2 - 4*f**2)*(0*f + 3*f - f) + 3*f - f**3 - 3*f + (-5*f**2 + 3*f**2 + 3*f**2)*(-6*f + 8*f + 2*f) + f**3 + f**3 + 3*f**3.\n',b'12*f**3\n',polynomials__expand_train.csv
+b'Expand (0*h + 2*h - 3*h)*(-19*h - 6*h - 12*h).\n',b'37*h**2\n',polynomials__expand_train.csv
+b'Expand (25 + 94 + 204 + 133)*(k + 1 - 1).\n',b'456*k\n',polynomials__expand_train.csv
+b'Expand (0 - 2*h + 0)*(2 - 4 + 0) - 2 + 12*h + 0 + 63*h.\n',b'79*h - 2\n',polynomials__expand_train.csv
+b'Expand -2*r**5 + 2*r**5 + 3*r**5 + (-5*r**2 - 3*r**2 + 3*r**2)*(0*r**2 + 2*r**2 - 8*r**2)*(2 - 3 + 5)*(-3*r + r + 0*r).\n',b'-237*r**5\n',polynomials__expand_train.csv
+b'Expand (-3*s**2 + s**2 + s**2)*(s**2 + 2*s - 2*s) + (1 - s - 1)*(-2 + 1 + 0)*(0*s**3 + 3*s**3 - 6*s**3).\n',b'-4*s**4\n',polynomials__expand_train.csv
+b'Expand (2*h + h - 4*h)*(-3*h + 2*h + 0*h)*(2*h + 0*h + h).\n',b'3*h**3\n',polynomials__expand_train.csv
+b'Expand (-45*x**2 + 1164*x - 1164*x)*(3*x + 0*x - 5*x).\n',b'90*x**3\n',polynomials__expand_train.csv
+b'Expand (4*s**2 + 2*s**5 - 4*s**2)*(7 + 2 - 4) + 0*s**5 - 3*s**5 + 5*s**5 + (-2 - 2*s**2 + 2)*(42*s - 42*s + 4*s**3).\n',b'4*s**5\n',polynomials__expand_train.csv
+b'Expand (-2*y**2 - 20*y + 20*y)*(2*y**2 + 4 - 4 + (4*y - y - 5*y)*(2*y + 3*y - y))*(6*y - 4 + 4).\n',b'72*y**5\n',polynomials__expand_train.csv
+b'Expand (2*h + h - 14*h)*(-33 + 201 + 50 + 35 + 58).\n',b'-3421*h\n',polynomials__expand_train.csv
+b'Expand -t**4 - 4*t**4 - 8*t**4 + (2*t**2 - t**2 + 0*t**2)*(3*t - 3*t**2 - 2*t**2 + 3*t**2).\n',b'-15*t**4 + 3*t**3\n',polynomials__expand_train.csv
+b'Expand (4 - 3*r + r - 2)*(-485 + 485 + 21*r).\n',b'-42*r**2 + 42*r\n',polynomials__expand_train.csv
+b'Expand -15 + 7*i**3 + 15 + (4*i**2 - 3*i**2 - 2*i**2)*(-3*i + 5*i - 4*i) - 10*i**3 - 2*i**3 + 0*i**3 + (0 + 3 - 1)*(2*i**3 - 2 + 2) - i**3 - 3*i**3 + 2*i**3.\n',b'-i**3\n',polynomials__expand_train.csv
+b'Expand (2*j + 0*j - j)*(2*j**2 - j**2 - 10*j**2) - 4*j**3 + 6*j**3 - j**3 + (-2 + 3 - 2)*(-2*j**3 - j + j) + 2 - 2 - 2*j**3.\n',b'-8*j**3\n',polynomials__expand_train.csv
+b'Expand (b - 3*b - b)*(-2 - b + 0*b + 0*b).\n',b'3*b**2 + 6*b\n',polynomials__expand_train.csv
+b'Expand (-17*r + 11*r + 5*r)*((1 + 2 - 5)*(-r**3 + 4*r**3 - r**3) + 2 - 2 + 2*r**3).\n',b'2*r**4\n',polynomials__expand_train.csv
+b'Expand (8555*c**4 + 3*c**5 - 8555*c**4 + 13*c)*(-1 + 2 - 3).\n',b'-6*c**5 - 26*c\n',polynomials__expand_train.csv
+b'Expand (4*t + 3*t - t - 2*t)*(2*t + 3*t + 0*t).\n',b'20*t**2\n',polynomials__expand_train.csv
+b'Expand (2*d**4 - d**3 - d**3 - 3*d**4)*(-49 + 107 + 65).\n',b'-123*d**4 - 246*d**3\n',polynomials__expand_train.csv
+b'Simplify r/(r*r*r*r**(-5/8)*r*r)*r*r/(r/(r**30*r)) assuming r is positive.\n',b'r**(229/8)\n',polynomials__simplify_power_train.csv
+b'Simplify ((i*i**(2/23))/((i*i**14*i)/i))**(-9) assuming i is positive.\n',b'i**(2880/23)\n',polynomials__simplify_power_train.csv
+b'Simplify (v**3*v**4)/((v**8/v)/v**(1/23)) assuming v is positive.\n',b'v**(1/23)\n',polynomials__simplify_power_train.csv
+b'Simplify ((((p*p/((p/p**(-4/7))/p))/p)/p*p*p)/(p/(p/(p*(p*p/(p**(-5)*p*p*p))/p))))/(((p/(p**(2/41)/p*p*p)*p)/p)/p**7) assuming p is positive.\n',b'p**(1285/287)\n',polynomials__simplify_power_train.csv
+b'Simplify ((s**20*s)/s**6)/((s*s*s*(s**(3/32)/s)/s*s)/s**(-33)) assuming s is positive.\n',b's**(-643/32)\n',polynomials__simplify_power_train.csv
+b'Simplify (r/((r/((r/r**(-18))/r))/r))/r*r**(6/5) assuming r is positive.\n',b'r**(96/5)\n',polynomials__simplify_power_train.csv
+b'Simplify ((y**9*y)**(1/55))**(-39) assuming y is positive.\n',b'y**(-78/11)\n',polynomials__simplify_power_train.csv
+b'Simplify ((w*w/w**2*w)**16)**37 assuming w is positive.\n',b'w**592\n',polynomials__simplify_power_train.csv
+b'Simplify ((r*r**19)/(r**(-2/25)*r))/(r**(2/5))**(-15/4) assuming r is positive.\n',b'r**(1029/50)\n',polynomials__simplify_power_train.csv
+b'Simplify (s/(s/(s/s**1)))**30/(s**(-1)*s**(-6))*s**1/(s/s**(-4)*s)*(((s*s**(2/5))/s)/s)/s**0 assuming s is positive.\n',b's**(7/5)\n',polynomials__simplify_power_train.csv
+b'Simplify ((m/(m/((m*m**(-2/33)*m*m*m*m)/m)*m))/m)**(4/23)/(m**(-2))**(-5) assuming m is positive.\n',b'm**(-7334/759)\n',polynomials__simplify_power_train.csv
+b'Simplify x/x**(5/6)*x*x**19 assuming x is positive.\n',b'x**(121/6)\n',polynomials__simplify_power_train.csv
+b'Simplify ((l**(-1/4)*l)/l**6)/((l**1*l)/l)**(2/13) assuming l is positive.\n',b'l**(-281/52)\n',polynomials__simplify_power_train.csv
+b'Simplify (z*(z**10*z)/z)**(-33)*z**(-2/39)/z*z*z*z/(z*z**22/z) assuming z is positive.\n',b'z**(-14939/39)\n',polynomials__simplify_power_train.csv
+b'Simplify d**(-21)/d*d**(-1/29)*((d/(d*d**15))/d*d)/(d**(-3/2)*d) assuming d is positive.\n',b'd**(-2119/58)\n',polynomials__simplify_power_train.csv
+b'Simplify (s*(s*((s**(-1/4)*s)/s*s)/s)/s*s*s*s*s)**(1/4)*s**(-4/3)*s*s*s*s/s**8*s assuming s is positive.\n',b's**(-151/48)\n',polynomials__simplify_power_train.csv
+b'Simplify (((q*(q*q/(q/(q/q**5*q)*q)*q)/q)**(2/21))**(1/7))**(-39) assuming q is positive.\n',b'q**(52/49)\n',polynomials__simplify_power_train.csv
+b'Simplify (((g*g**12)/(g*g**(1/5)))**(1/38))**27 assuming g is positive.\n',b'g**(1593/190)\n',polynomials__simplify_power_train.csv
+b'Simplify (p/(p*p**(-3/7)))**(-28) assuming p is positive.\n',b'p**(-12)\n',polynomials__simplify_power_train.csv
+b'Simplify (n*n/(n/(n/((n*(n/(n/(n/n**(-2/31)))*n*n)/n*n)/n)))*n/(n**(-11)/n))/(n**(-2/9))**7 assuming n is positive.\n',b'n**(3764/279)\n',polynomials__simplify_power_train.csv
+"b'Three letters picked without replacement from {w: 3, b: 5, k: 2, p: 2, i: 3}. What is prob of picking 2 b and 1 i?\n'",b'6/91\n',probability__swr_p_level_set_train.csv
+"b'Calculate prob of picking 2 v and 1 c when three letters picked without replacement from {p: 1, c: 3, v: 12}.\n'",b'99/280\n',probability__swr_p_level_set_train.csv
+"b'Four letters picked without replacement from ltlqzlzqlqznq. Give prob of picking 2 l, 1 z, and 1 q.\n'",b'72/715\n',probability__swr_p_level_set_train.csv
+"b'Two letters picked without replacement from {x: 1, t: 2, l: 9, r: 1}. What is prob of picking 1 l and 1 t?\n'",b'3/13\n',probability__swr_p_level_set_train.csv
+b'Two letters picked without replacement from kkkkkkkggkkkkkkggvgk. What is prob of picking 1 v and 1 g?\n',b'1/38\n',probability__swr_p_level_set_train.csv
+"b'What is prob of picking 1 q and 1 i when two letters picked without replacement from {q: 5, i: 14}?\n'",b'70/171\n',probability__swr_p_level_set_train.csv
+b'Calculate prob of picking 1 o and 1 k when two letters picked without replacement from covoookgvkkkogckoc.\n',b'10/51\n',probability__swr_p_level_set_train.csv
+b'What is prob of picking 3 c when three letters picked without replacement from xycyxycxcmxxyxmmxm?\n',b'1/816\n',probability__swr_p_level_set_train.csv
+"b'Four letters picked without replacement from {i: 7, m: 2}. What is prob of picking 1 m and 3 i?\n'",b'5/9\n',probability__swr_p_level_set_train.csv
+b'Two letters picked without replacement from kxlbx. Give prob of picking 2 x.\n',b'1/10\n',probability__swr_p_level_set_train.csv
+b'Calculate prob of picking 2 n when two letters picked without replacement from yneefnlk.\n',b'1/28\n',probability__swr_p_level_set_train.csv
+"b'Calculate prob of picking 1 v and 1 j when two letters picked without replacement from {e: 2, d: 2, f: 1, v: 4, j: 3}.\n'",b'2/11\n',probability__swr_p_level_set_train.csv
+b'Calculate prob of picking 1 n and 1 i when two letters picked without replacement from lukikiniiuuuuui.\n',b'1/21\n',probability__swr_p_level_set_train.csv
+"b'Calculate prob of picking 2 n when two letters picked without replacement from {a: 2, n: 2}.\n'",b'1/6\n',probability__swr_p_level_set_train.csv
+"b'Calculate prob of picking 2 t and 1 e when three letters picked without replacement from {e: 2, p: 6, t: 7}.\n'",b'6/65\n',probability__swr_p_level_set_train.csv
+"b'What is prob of picking 2 x and 2 j when four letters picked without replacement from {x: 9, j: 11}?\n'",b'132/323\n',probability__swr_p_level_set_train.csv
+"b'Two letters picked without replacement from {c: 2, s: 2, g: 1, n: 1, f: 1, p: 1}. Give prob of picking 1 c and 1 f.\n'",b'1/14\n',probability__swr_p_level_set_train.csv
+b'Four letters picked without replacement from yyyyiyyyiyiyyiyyyy. Give prob of picking 4 y.\n',b'1001/3060\n',probability__swr_p_level_set_train.csv
+b'Three letters picked without replacement from ympdmytyyyytddtmdyy. Give prob of picking 3 t.\n',b'1/969\n',probability__swr_p_level_set_train.csv
+b'What is prob of picking 2 b when two letters picked without replacement from mecbbbbcb?\n',b'5/18\n',probability__swr_p_level_set_train.csv
+"b'What is prob of sequence pp when two letters picked without replacement from {p: 12, u: 7}?\n'",b'22/57\n',probability__swr_p_sequence_train.csv
+b'Three letters picked without replacement from wkgysye. What is prob of sequence swg?\n',b'1/210\n',probability__swr_p_sequence_train.csv
+b'Calculate prob of sequence rh when two letters picked without replacement from rbrrbbrrrrbrbrbrrhb.\n',b'11/342\n',probability__swr_p_sequence_train.csv
+b'What is prob of sequence san when three letters picked without replacement from nemamys?\n',b'1/210\n',probability__swr_p_sequence_train.csv
+"b'Calculate prob of sequence ullc when four letters picked without replacement from {l: 2, u: 5, d: 3, t: 1, c: 5}.\n'",b'5/4368\n',probability__swr_p_sequence_train.csv
+b'What is prob of sequence phhm when four letters picked without replacement from pmhmmppmmhhmp?\n',b'6/715\n',probability__swr_p_sequence_train.csv
+b'Two letters picked without replacement from vwhhbvwvbpnbnhvw. What is prob of sequence vb?\n',b'1/20\n',probability__swr_p_sequence_train.csv
+b'Three letters picked without replacement from ssxxzvxzvxttzvxt. What is prob of sequence zxt?\n',b'3/224\n',probability__swr_p_sequence_train.csv
+b'Three letters picked without replacement from izzbbv. Give prob of sequence vib.\n',b'1/60\n',probability__swr_p_sequence_train.csv
+"b'Calculate prob of sequence hmly when four letters picked without replacement from {h: 3, l: 4, g: 2, m: 1, y: 2}.\n'",b'1/495\n',probability__swr_p_sequence_train.csv
+"b'Calculate prob of sequence fe when two letters picked without replacement from {q: 10, e: 2, m: 1, h: 1, g: 3, f: 1}.\n'",b'1/153\n',probability__swr_p_sequence_train.csv
+b'Four letters picked without replacement from jmjmjjmmmm. Give prob of sequence mmjj.\n',b'1/14\n',probability__swr_p_sequence_train.csv
+b'What is prob of sequence ao when two letters picked without replacement from aanoawoooaoowwa?\n',b'1/7\n',probability__swr_p_sequence_train.csv
+"b'Four letters picked without replacement from {d: 2, w: 4, g: 1, t: 3}. Give prob of sequence tdgt.\n'",b'1/420\n',probability__swr_p_sequence_train.csv
+"b'Calculate prob of sequence fh when two letters picked without replacement from {h: 1, f: 2, j: 2, y: 4, r: 1, e: 2}.\n'",b'1/66\n',probability__swr_p_sequence_train.csv
+"b'Three letters picked without replacement from {a: 2, u: 1}. Give prob of sequence aua.\n'",b'1/3\n',probability__swr_p_sequence_train.csv
+b'Calculate prob of sequence bybb when four letters picked without replacement from agbcwawybbwb.\n',b'1/495\n',probability__swr_p_sequence_train.csv
+"b'What is prob of sequence ssfs when four letters picked without replacement from {p: 2, f: 7, s: 3}?\n'",b'7/1980\n',probability__swr_p_sequence_train.csv
+b'Four letters picked without replacement from fgzfzzzzffzfzfzfzff. Give prob of sequence fzzz.\n',b'63/1292\n',probability__swr_p_sequence_train.csv
+b'Two letters picked without replacement from biiyjkjbjhyyhj. Give prob of sequence yy.\n',b'3/91\n',probability__swr_p_sequence_train.csv
