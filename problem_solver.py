@@ -12,7 +12,7 @@ def main():
     #Upload list of problems
     problem_list = pd.read_csv("math_data_summarized.csv")
 
-    question_text = problem_list.iloc[0:args.prob_num]
+    question_text = problem_list.iloc[0]
     
     
 
